@@ -1,0 +1,1801 @@
+trial,detectorType,bot,movementMode,settingName,setting,status,cost,moves,detections,runId,recordingFile
+1,A,Baseline,Free Movement,k,16,SUCCESS,26.0,183,52,1,runs/experiment2.json
+1,A,Improved,Free Movement,k,16,SUCCESS,6.0,91,12,2,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,221,12,3,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.075,SUCCESS,8.5,545,17,4,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.075,SUCCESS,23.0,479,46,5,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,28.0,923,56,6,runs/experiment2.json
+1,A,Baseline,Free Movement,k,18,SUCCESS,29.5,217,59,7,runs/experiment2.json
+1,A,Improved,Free Movement,k,18,SUCCESS,7.0,109,14,8,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,227,11,9,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.1,SUCCESS,30.5,1425,61,10,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.1,SUCCESS,15.5,207,31,11,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,9.5,317,19,12,runs/experiment2.json
+1,A,Baseline,Free Movement,k,20,SUCCESS,44.5,161,89,13,runs/experiment2.json
+1,A,Improved,Free Movement,k,20,SUCCESS,9.5,165,19,14,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,20,SUCCESS,5.0,221,10,15,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.125,SUCCESS,15.0,1145,30,16,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.125,SUCCESS,21.0,173,42,17,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,20.0,809,40,18,runs/experiment2.json
+1,A,Baseline,Free Movement,k,22,SUCCESS,11.5,119,23,19,runs/experiment2.json
+1,A,Improved,Free Movement,k,22,SUCCESS,10.0,137,20,20,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,313,10,21,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.15,SUCCESS,15.0,877,30,22,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.15,SUCCESS,12.0,67,24,23,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,7.5,287,15,24,runs/experiment2.json
+1,A,Baseline,Free Movement,k,24,SUCCESS,32.0,177,64,25,runs/experiment2.json
+1,A,Improved,Free Movement,k,24,SUCCESS,8.5,139,17,26,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,24,SUCCESS,5.0,271,10,27,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.2,SUCCESS,15.5,451,31,28,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.2,SUCCESS,26.5,355,53,29,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,7.0,111,14,30,runs/experiment2.json
+1,A,Baseline,Free Movement,k,26,SUCCESS,33.5,143,67,31,runs/experiment2.json
+1,A,Improved,Free Movement,k,26,SUCCESS,6.5,135,13,32,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,239,11,33,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.25,SUCCESS,16.5,1467,33,34,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.25,SUCCESS,38.5,581,77,35,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,20.0,1631,40,36,runs/experiment2.json
+1,A,Baseline,Free Movement,k,28,SUCCESS,3.5,59,7,37,runs/experiment2.json
+1,A,Improved,Free Movement,k,28,SUCCESS,6.0,169,12,38,runs/experiment2.json
+1,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,353,12,39,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.3,SUCCESS,17.5,1695,35,40,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.3,SUCCESS,28.0,339,56,41,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,7.0,69,14,42,runs/experiment2.json
+1,B,Baseline,Free Movement,alpha,0.4,SUCCESS,19.0,1595,38,43,runs/experiment2.json
+1,B,Improved,Free Movement,alpha,0.4,SUCCESS,39.0,419,78,44,runs/experiment2.json
+1,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,34.5,2991,69,45,runs/experiment2.json
+2,A,Baseline,Free Movement,k,16,SUCCESS,50.5,125,101,46,runs/experiment2.json
+2,A,Improved,Free Movement,k,16,SUCCESS,11.0,135,22,47,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,16,SUCCESS,5.0,209,10,48,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.075,SUCCESS,21.0,215,42,49,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.075,SUCCESS,29.0,187,58,50,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,17.0,249,34,51,runs/experiment2.json
+2,A,Baseline,Free Movement,k,18,SUCCESS,4.0,7,8,52,runs/experiment2.json
+2,A,Improved,Free Movement,k,18,SUCCESS,9.5,191,19,53,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,163,11,54,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.1,SUCCESS,3.5,13,7,55,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.1,SUCCESS,13.0,103,26,56,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,24.0,1465,48,57,runs/experiment2.json
+2,A,Baseline,Free Movement,k,20,SUCCESS,138.5,489,277,58,runs/experiment2.json
+2,A,Improved,Free Movement,k,20,SUCCESS,10.0,197,20,59,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,199,12,60,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.125,SUCCESS,10.5,113,21,61,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.125,SUCCESS,4.0,9,8,62,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,13.5,195,27,63,runs/experiment2.json
+2,A,Baseline,Free Movement,k,22,SUCCESS,135.0,391,270,64,runs/experiment2.json
+2,A,Improved,Free Movement,k,22,SUCCESS,9.5,183,19,65,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,177,11,66,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.15,SUCCESS,14.0,197,28,67,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.15,SUCCESS,30.0,365,60,68,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,15.5,555,31,69,runs/experiment2.json
+2,A,Baseline,Free Movement,k,24,SUCCESS,145.0,459,290,70,runs/experiment2.json
+2,A,Improved,Free Movement,k,24,SUCCESS,9.5,195,19,71,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,271,11,72,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.2,SUCCESS,27.0,2483,54,73,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.2,SUCCESS,13.0,79,26,74,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,16.0,257,32,75,runs/experiment2.json
+2,A,Baseline,Free Movement,k,26,SUCCESS,31.0,69,62,76,runs/experiment2.json
+2,A,Improved,Free Movement,k,26,SUCCESS,9.0,201,18,77,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,321,12,78,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.25,SUCCESS,30.5,2365,61,79,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.25,SUCCESS,2.5,7,5,80,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,26.5,1833,53,81,runs/experiment2.json
+2,A,Baseline,Free Movement,k,28,SUCCESS,100.0,325,200,82,runs/experiment2.json
+2,A,Improved,Free Movement,k,28,SUCCESS,8.5,209,17,83,runs/experiment2.json
+2,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,267,12,84,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.3,SUCCESS,37.0,2619,74,85,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.3,SUCCESS,15.5,97,31,86,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,8.0,155,16,87,runs/experiment2.json
+2,B,Baseline,Free Movement,alpha,0.4,SUCCESS,52.5,5213,105,88,runs/experiment2.json
+2,B,Improved,Free Movement,alpha,0.4,SUCCESS,4.0,11,8,89,runs/experiment2.json
+2,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,38.5,1991,77,90,runs/experiment2.json
+3,A,Baseline,Free Movement,k,16,SUCCESS,45.5,124,91,91,runs/experiment2.json
+3,A,Improved,Free Movement,k,16,SUCCESS,7.5,104,15,92,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,204,11,93,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.075,SUCCESS,13.5,144,27,94,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.075,SUCCESS,9.5,34,19,95,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,34.5,876,69,96,runs/experiment2.json
+3,A,Baseline,Free Movement,k,18,SUCCESS,109.5,372,219,97,runs/experiment2.json
+3,A,Improved,Free Movement,k,18,SUCCESS,6.5,118,13,98,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,188,11,99,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.1,SUCCESS,30.5,1302,61,100,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.1,SUCCESS,24.0,140,48,101,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,38.0,876,76,102,runs/experiment2.json
+3,A,Baseline,Free Movement,k,20,SUCCESS,127.5,374,255,103,runs/experiment2.json
+3,A,Improved,Free Movement,k,20,SUCCESS,7.0,124,14,104,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,210,12,105,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.125,SUCCESS,4.5,38,9,106,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.125,SUCCESS,18.0,252,36,107,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,10.0,84,20,108,runs/experiment2.json
+3,A,Baseline,Free Movement,k,22,SUCCESS,28.0,102,56,109,runs/experiment2.json
+3,A,Improved,Free Movement,k,22,SUCCESS,7.0,130,14,110,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,208,12,111,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.15,SUCCESS,24.5,1022,49,112,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.15,SUCCESS,13.5,50,27,113,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,9.0,78,18,114,runs/experiment2.json
+3,A,Baseline,Free Movement,k,24,SUCCESS,49.0,184,98,115,runs/experiment2.json
+3,A,Improved,Free Movement,k,24,SUCCESS,8.0,166,16,116,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,334,11,117,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.2,SUCCESS,6.5,42,13,118,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.2,SUCCESS,11.0,80,22,119,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,17.0,1130,34,120,runs/experiment2.json
+3,A,Baseline,Free Movement,k,26,SUCCESS,23.0,50,46,121,runs/experiment2.json
+3,A,Improved,Free Movement,k,26,SUCCESS,10.0,214,20,122,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,216,11,123,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.25,SUCCESS,12.5,218,25,124,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.25,SUCCESS,7.5,28,15,125,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,7.5,82,15,126,runs/experiment2.json
+3,A,Baseline,Free Movement,k,28,SUCCESS,225.5,690,451,127,runs/experiment2.json
+3,A,Improved,Free Movement,k,28,SUCCESS,11.5,246,23,128,runs/experiment2.json
+3,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,256,11,129,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.3,SUCCESS,91.0,9020,182,130,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.3,SUCCESS,6.5,28,13,131,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,12.0,562,24,132,runs/experiment2.json
+3,B,Baseline,Free Movement,alpha,0.4,SUCCESS,77.0,6872,154,133,runs/experiment2.json
+3,B,Improved,Free Movement,alpha,0.4,SUCCESS,4.0,14,8,134,runs/experiment2.json
+3,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,15.5,910,31,135,runs/experiment2.json
+4,A,Baseline,Free Movement,k,16,SUCCESS,61.5,253,123,136,runs/experiment2.json
+4,A,Improved,Free Movement,k,16,SUCCESS,13.5,183,27,137,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,251,11,138,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.075,SUCCESS,24.5,1379,49,139,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.075,SUCCESS,34.5,561,69,140,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,14.5,289,29,141,runs/experiment2.json
+4,A,Baseline,Free Movement,k,18,SUCCESS,13.0,83,26,142,runs/experiment2.json
+4,A,Improved,Free Movement,k,18,SUCCESS,8.0,119,16,143,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,18,SUCCESS,6.5,263,13,144,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.1,SUCCESS,11.0,759,22,145,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.1,SUCCESS,18.0,133,36,146,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,26.0,443,52,147,runs/experiment2.json
+4,A,Baseline,Free Movement,k,20,SUCCESS,68.0,247,136,148,runs/experiment2.json
+4,A,Improved,Free Movement,k,20,SUCCESS,9.5,121,19,149,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,247,11,150,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.125,SUCCESS,27.5,1023,55,151,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.125,SUCCESS,31.0,645,62,152,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,13.5,701,27,153,runs/experiment2.json
+4,A,Baseline,Free Movement,k,22,SUCCESS,46.5,171,93,154,runs/experiment2.json
+4,A,Improved,Free Movement,k,22,SUCCESS,10.0,165,20,155,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,229,11,156,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.15,SUCCESS,16.0,1385,32,157,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.15,SUCCESS,41.5,885,83,158,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,22.0,451,44,159,runs/experiment2.json
+4,A,Baseline,Free Movement,k,24,SUCCESS,107.0,401,214,160,runs/experiment2.json
+4,A,Improved,Free Movement,k,24,SUCCESS,9.0,123,18,161,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,207,12,162,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.2,SUCCESS,16.5,1005,33,163,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.2,SUCCESS,30.5,523,61,164,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,10.0,189,20,165,runs/experiment2.json
+4,A,Baseline,Free Movement,k,26,SUCCESS,12.0,97,24,166,runs/experiment2.json
+4,A,Improved,Free Movement,k,26,SUCCESS,10.5,205,21,167,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,26,SUCCESS,6.5,243,13,168,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.25,SUCCESS,11.5,761,23,169,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.25,SUCCESS,27.5,277,55,170,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,16.0,651,32,171,runs/experiment2.json
+4,A,Baseline,Free Movement,k,28,SUCCESS,47.0,251,94,172,runs/experiment2.json
+4,A,Improved,Free Movement,k,28,SUCCESS,6.0,109,12,173,runs/experiment2.json
+4,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,277,12,174,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.3,SUCCESS,17.5,861,35,175,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.3,SUCCESS,18.5,177,37,176,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,49.0,3871,98,177,runs/experiment2.json
+4,B,Baseline,Free Movement,alpha,0.4,SUCCESS,33.0,2533,66,178,runs/experiment2.json
+4,B,Improved,Free Movement,alpha,0.4,SUCCESS,95.0,1367,190,179,runs/experiment2.json
+4,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,9.0,175,18,180,runs/experiment2.json
+5,A,Baseline,Free Movement,k,16,SUCCESS,25.0,286,50,181,runs/experiment2.json
+5,A,Improved,Free Movement,k,16,SUCCESS,6.5,100,13,182,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,244,12,183,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.075,SUCCESS,24.5,956,49,184,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.075,SUCCESS,24.5,340,49,185,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,10.5,176,21,186,runs/experiment2.json
+5,A,Baseline,Free Movement,k,18,SUCCESS,16.0,116,32,187,runs/experiment2.json
+5,A,Improved,Free Movement,k,18,SUCCESS,5.5,104,11,188,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,204,12,189,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.1,SUCCESS,39.5,1504,79,190,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.1,SUCCESS,48.0,1006,96,191,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,29.0,1376,58,192,runs/experiment2.json
+5,A,Baseline,Free Movement,k,20,SUCCESS,21.0,140,42,193,runs/experiment2.json
+5,A,Improved,Free Movement,k,20,SUCCESS,5.0,118,10,194,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,228,12,195,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.125,SUCCESS,26.5,970,53,196,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.125,SUCCESS,21.5,228,43,197,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,35.5,2240,71,198,runs/experiment2.json
+5,A,Baseline,Free Movement,k,22,SUCCESS,51.0,226,102,199,runs/experiment2.json
+5,A,Improved,Free Movement,k,22,SUCCESS,7.5,140,15,200,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,242,11,201,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.15,SUCCESS,24.0,1500,48,202,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.15,SUCCESS,17.5,356,35,203,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,27.0,1874,54,204,runs/experiment2.json
+5,A,Baseline,Free Movement,k,24,SUCCESS,198.5,628,397,205,runs/experiment2.json
+5,A,Improved,Free Movement,k,24,SUCCESS,7.5,152,15,206,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,236,11,207,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.2,SUCCESS,14.0,470,28,208,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.2,SUCCESS,30.0,582,60,209,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,29.5,2002,59,210,runs/experiment2.json
+5,A,Baseline,Free Movement,k,26,SUCCESS,23.0,172,46,211,runs/experiment2.json
+5,A,Improved,Free Movement,k,26,SUCCESS,6.0,148,12,212,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,260,11,213,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.25,SUCCESS,8.5,492,17,214,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.25,SUCCESS,15.5,272,31,215,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,15.0,582,30,216,runs/experiment2.json
+5,A,Baseline,Free Movement,k,28,SUCCESS,256.0,820,512,217,runs/experiment2.json
+5,A,Improved,Free Movement,k,28,SUCCESS,7.0,216,14,218,runs/experiment2.json
+5,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,204,10,219,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.3,SUCCESS,22.5,1884,45,220,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.3,SUCCESS,20.5,268,41,221,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,56.0,4696,112,222,runs/experiment2.json
+5,B,Baseline,Free Movement,alpha,0.4,SUCCESS,50.5,4518,101,223,runs/experiment2.json
+5,B,Improved,Free Movement,alpha,0.4,SUCCESS,76.5,1140,153,224,runs/experiment2.json
+5,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,15.5,758,31,225,runs/experiment2.json
+6,A,Baseline,Free Movement,k,16,SUCCESS,17.0,63,34,226,runs/experiment2.json
+6,A,Improved,Free Movement,k,16,SUCCESS,6.5,115,13,227,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,16,SUCCESS,4.5,143,9,228,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.075,SUCCESS,19.5,251,39,229,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.075,SUCCESS,42.0,487,84,230,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,7.0,283,14,231,runs/experiment2.json
+6,A,Baseline,Free Movement,k,18,SUCCESS,17.5,71,35,232,runs/experiment2.json
+6,A,Improved,Free Movement,k,18,SUCCESS,6.5,125,13,233,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,18,SUCCESS,4.5,157,9,234,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.1,SUCCESS,31.0,965,62,235,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.1,SUCCESS,17.0,257,34,236,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,9.0,257,18,237,runs/experiment2.json
+6,A,Baseline,Free Movement,k,20,SUCCESS,53.5,177,107,238,runs/experiment2.json
+6,A,Improved,Free Movement,k,20,SUCCESS,6.5,137,13,239,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,20,SUCCESS,5.0,159,10,240,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.125,SUCCESS,25.0,1047,50,241,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.125,SUCCESS,24.0,319,48,242,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,15.0,655,30,243,runs/experiment2.json
+6,A,Baseline,Free Movement,k,22,SUCCESS,42.5,95,85,244,runs/experiment2.json
+6,A,Improved,Free Movement,k,22,SUCCESS,6.5,151,13,245,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,22,SUCCESS,4.5,139,9,246,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.15,SUCCESS,14.5,639,29,247,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.15,SUCCESS,22.0,331,44,248,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,37.5,2381,75,249,runs/experiment2.json
+6,A,Baseline,Free Movement,k,24,SUCCESS,30.0,65,60,250,runs/experiment2.json
+6,A,Improved,Free Movement,k,24,SUCCESS,6.0,157,12,251,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,24,SUCCESS,5.0,185,10,252,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.2,SUCCESS,17.5,1599,35,253,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.2,SUCCESS,26.0,335,52,254,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,6.5,601,13,255,runs/experiment2.json
+6,A,Baseline,Free Movement,k,26,SUCCESS,50.0,161,100,256,runs/experiment2.json
+6,A,Improved,Free Movement,k,26,SUCCESS,7.0,169,14,257,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,26,SUCCESS,5.0,233,10,258,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.25,SUCCESS,20.0,931,40,259,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.25,SUCCESS,30.5,383,61,260,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,9.0,623,18,261,runs/experiment2.json
+6,A,Baseline,Free Movement,k,28,SUCCESS,46.5,117,93,262,runs/experiment2.json
+6,A,Improved,Free Movement,k,28,SUCCESS,7.0,171,14,263,runs/experiment2.json
+6,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,195,10,264,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.3,SUCCESS,10.5,155,21,265,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.3,SUCCESS,37.0,431,74,266,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,11.5,581,23,267,runs/experiment2.json
+6,B,Baseline,Free Movement,alpha,0.4,SUCCESS,31.5,2567,63,268,runs/experiment2.json
+6,B,Improved,Free Movement,alpha,0.4,SUCCESS,65.0,857,130,269,runs/experiment2.json
+6,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,24.5,2043,49,270,runs/experiment2.json
+7,A,Baseline,Free Movement,k,16,SUCCESS,25.5,144,51,271,runs/experiment2.json
+7,A,Improved,Free Movement,k,16,SUCCESS,7.0,90,14,272,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,190,11,273,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.075,SUCCESS,44.0,1880,88,274,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.075,SUCCESS,25.5,252,51,275,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,27.5,626,55,276,runs/experiment2.json
+7,A,Baseline,Free Movement,k,18,SUCCESS,12.0,74,24,277,runs/experiment2.json
+7,A,Improved,Free Movement,k,18,SUCCESS,5.0,66,10,278,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,204,11,279,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.1,SUCCESS,8.5,186,17,280,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.1,SUCCESS,11.5,110,23,281,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,11.5,174,23,282,runs/experiment2.json
+7,A,Baseline,Free Movement,k,20,SUCCESS,25.5,166,51,283,runs/experiment2.json
+7,A,Improved,Free Movement,k,20,SUCCESS,4.5,66,9,284,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,262,12,285,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.125,SUCCESS,27.5,1494,55,286,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.125,SUCCESS,23.0,202,46,287,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,19.0,348,38,288,runs/experiment2.json
+7,A,Baseline,Free Movement,k,22,SUCCESS,6.0,74,12,289,runs/experiment2.json
+7,A,Improved,Free Movement,k,22,SUCCESS,6.0,72,12,290,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,254,11,291,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.15,SUCCESS,28.5,1978,57,292,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.15,SUCCESS,38.0,744,76,293,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,30.5,1846,61,294,runs/experiment2.json
+7,A,Baseline,Free Movement,k,24,SUCCESS,3.0,74,6,295,runs/experiment2.json
+7,A,Improved,Free Movement,k,24,SUCCESS,4.5,76,9,296,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,306,12,297,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.2,SUCCESS,29.5,2576,59,298,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.2,SUCCESS,18.5,308,37,299,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,11.0,768,22,300,runs/experiment2.json
+7,A,Baseline,Free Movement,k,26,SUCCESS,14.5,102,29,301,runs/experiment2.json
+7,A,Improved,Free Movement,k,26,SUCCESS,2.5,62,5,302,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,300,12,303,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.25,SUCCESS,19.0,1710,38,304,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.25,SUCCESS,22.0,314,44,305,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,11.0,294,22,306,runs/experiment2.json
+7,A,Baseline,Free Movement,k,28,SUCCESS,18.0,108,36,307,runs/experiment2.json
+7,A,Improved,Free Movement,k,28,SUCCESS,5.0,98,10,308,runs/experiment2.json
+7,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,294,11,309,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.3,SUCCESS,27.5,2704,55,310,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.3,SUCCESS,9.5,94,19,311,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,9.5,682,19,312,runs/experiment2.json
+7,B,Baseline,Free Movement,alpha,0.4,SUCCESS,26.5,2582,53,313,runs/experiment2.json
+7,B,Improved,Free Movement,alpha,0.4,SUCCESS,105.0,1638,210,314,runs/experiment2.json
+7,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,11.5,744,23,315,runs/experiment2.json
+8,A,Baseline,Free Movement,k,16,SUCCESS,13.0,155,26,316,runs/experiment2.json
+8,A,Improved,Free Movement,k,16,SUCCESS,6.5,103,13,317,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,299,11,318,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.075,SUCCESS,28.0,1181,56,319,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.075,SUCCESS,42.0,551,84,320,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,43.5,1549,87,321,runs/experiment2.json
+8,A,Baseline,Free Movement,k,18,SUCCESS,11.5,129,23,322,runs/experiment2.json
+8,A,Improved,Free Movement,k,18,SUCCESS,9.0,125,18,323,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,213,11,324,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.1,SUCCESS,15.0,405,30,325,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.1,SUCCESS,38.5,411,77,326,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,21.5,981,43,327,runs/experiment2.json
+8,A,Baseline,Free Movement,k,20,SUCCESS,118.0,445,236,328,runs/experiment2.json
+8,A,Improved,Free Movement,k,20,SUCCESS,7.0,123,14,329,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,20,SUCCESS,6.5,209,13,330,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.125,SUCCESS,13.5,783,27,331,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.125,SUCCESS,18.0,261,36,332,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,27.0,1233,54,333,runs/experiment2.json
+8,A,Baseline,Free Movement,k,22,SUCCESS,15.5,171,31,334,runs/experiment2.json
+8,A,Improved,Free Movement,k,22,SUCCESS,11.5,191,23,335,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,337,11,336,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.15,SUCCESS,10.0,501,20,337,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.15,SUCCESS,25.0,287,50,338,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,19.5,1115,39,339,runs/experiment2.json
+8,A,Baseline,Free Movement,k,24,SUCCESS,122.0,539,244,340,runs/experiment2.json
+8,A,Improved,Free Movement,k,24,SUCCESS,11.0,179,22,341,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,223,11,342,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.2,SUCCESS,12.0,721,24,343,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.2,SUCCESS,58.5,1405,117,344,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,20.5,1107,41,345,runs/experiment2.json
+8,A,Baseline,Free Movement,k,26,SUCCESS,10.0,135,20,346,runs/experiment2.json
+8,A,Improved,Free Movement,k,26,SUCCESS,6.0,135,12,347,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,303,11,348,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.25,SUCCESS,19.5,1497,39,349,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.25,SUCCESS,34.5,413,69,350,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,19.0,1339,38,351,runs/experiment2.json
+8,A,Baseline,Free Movement,k,28,SUCCESS,19.0,165,38,352,runs/experiment2.json
+8,A,Improved,Free Movement,k,28,SUCCESS,5.0,135,10,353,runs/experiment2.json
+8,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,249,10,354,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.3,SUCCESS,18.5,1525,37,355,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.3,SUCCESS,22.5,291,45,356,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,11.0,247,22,357,runs/experiment2.json
+8,B,Baseline,Free Movement,alpha,0.4,SUCCESS,70.0,6255,140,358,runs/experiment2.json
+8,B,Improved,Free Movement,alpha,0.4,SUCCESS,56.5,717,113,359,runs/experiment2.json
+8,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,44.0,2419,88,360,runs/experiment2.json
+9,A,Baseline,Free Movement,k,16,SUCCESS,41.0,127,82,361,runs/experiment2.json
+9,A,Improved,Free Movement,k,16,SUCCESS,10.5,101,21,362,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,171,12,363,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.075,SUCCESS,14.0,613,28,364,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.075,SUCCESS,16.5,141,33,365,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,24.5,533,49,366,runs/experiment2.json
+9,A,Baseline,Free Movement,k,18,SUCCESS,19.0,109,38,367,runs/experiment2.json
+9,A,Improved,Free Movement,k,18,SUCCESS,4.5,57,9,368,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,217,11,369,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.1,SUCCESS,25.0,1291,50,370,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.1,SUCCESS,21.5,137,43,371,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,11.5,409,23,372,runs/experiment2.json
+9,A,Baseline,Free Movement,k,20,SUCCESS,39.5,187,79,373,runs/experiment2.json
+9,A,Improved,Free Movement,k,20,SUCCESS,8.0,139,16,374,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,20,SUCCESS,5.0,203,10,375,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.125,SUCCESS,25.0,951,50,376,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.125,SUCCESS,31.5,233,63,377,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,12.5,911,25,378,runs/experiment2.json
+9,A,Baseline,Free Movement,k,22,SUCCESS,26.0,137,52,379,runs/experiment2.json
+9,A,Improved,Free Movement,k,22,SUCCESS,6.5,139,13,380,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,193,10,381,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.15,SUCCESS,10.5,579,21,382,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.15,SUCCESS,16.0,105,32,383,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,17.0,741,34,384,runs/experiment2.json
+9,A,Baseline,Free Movement,k,24,SUCCESS,65.5,297,131,385,runs/experiment2.json
+9,A,Improved,Free Movement,k,24,SUCCESS,5.5,139,11,386,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,24,SUCCESS,5.0,195,10,387,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.2,SUCCESS,24.5,1815,49,388,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.2,SUCCESS,13.0,161,26,389,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,17.0,797,34,390,runs/experiment2.json
+9,A,Baseline,Free Movement,k,26,SUCCESS,18.5,95,37,391,runs/experiment2.json
+9,A,Improved,Free Movement,k,26,SUCCESS,8.5,109,17,392,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,263,12,393,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.25,SUCCESS,21.5,1457,43,394,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.25,SUCCESS,44.5,583,89,395,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,8.0,323,16,396,runs/experiment2.json
+9,A,Baseline,Free Movement,k,28,SUCCESS,16.5,119,33,397,runs/experiment2.json
+9,A,Improved,Free Movement,k,28,SUCCESS,5.5,105,11,398,runs/experiment2.json
+9,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,387,12,399,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.3,SUCCESS,21.5,1761,43,400,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.3,SUCCESS,32.5,377,65,401,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,14.5,699,29,402,runs/experiment2.json
+9,B,Baseline,Free Movement,alpha,0.4,SUCCESS,24.5,2495,49,403,runs/experiment2.json
+9,B,Improved,Free Movement,alpha,0.4,SUCCESS,21.5,193,43,404,runs/experiment2.json
+9,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,25.0,2059,50,405,runs/experiment2.json
+10,A,Baseline,Free Movement,k,16,SUCCESS,46.5,212,93,406,runs/experiment2.json
+10,A,Improved,Free Movement,k,16,SUCCESS,10.0,110,20,407,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,246,11,408,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.075,SUCCESS,31.0,1474,62,409,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.075,SUCCESS,18.5,188,37,410,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,14.0,404,28,411,runs/experiment2.json
+10,A,Baseline,Free Movement,k,18,SUCCESS,6.0,116,12,412,runs/experiment2.json
+10,A,Improved,Free Movement,k,18,SUCCESS,9.0,142,18,413,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,200,11,414,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.1,SUCCESS,18.0,526,36,415,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.1,SUCCESS,20.0,238,40,416,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,31.5,742,63,417,runs/experiment2.json
+10,A,Baseline,Free Movement,k,20,SUCCESS,74.0,318,148,418,runs/experiment2.json
+10,A,Improved,Free Movement,k,20,SUCCESS,8.5,150,17,419,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,254,12,420,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.125,SUCCESS,16.5,690,33,421,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.125,SUCCESS,9.5,140,19,422,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,12.0,202,24,423,runs/experiment2.json
+10,A,Baseline,Free Movement,k,22,SUCCESS,46.0,184,92,424,runs/experiment2.json
+10,A,Improved,Free Movement,k,22,SUCCESS,10.5,150,21,425,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,230,11,426,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.15,SUCCESS,9.5,460,19,427,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.15,SUCCESS,18.0,232,36,428,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,20.0,680,40,429,runs/experiment2.json
+10,A,Baseline,Free Movement,k,24,SUCCESS,115.5,392,231,430,runs/experiment2.json
+10,A,Improved,Free Movement,k,24,SUCCESS,7.5,158,15,431,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,260,12,432,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.2,SUCCESS,6.5,404,13,433,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.2,SUCCESS,46.5,766,93,434,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,15.0,572,30,435,runs/experiment2.json
+10,A,Baseline,Free Movement,k,26,SUCCESS,9.5,74,19,436,runs/experiment2.json
+10,A,Improved,Free Movement,k,26,SUCCESS,7.5,180,15,437,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,26,SUCCESS,6.5,404,13,438,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.25,SUCCESS,7.0,402,14,439,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.25,SUCCESS,16.5,164,33,440,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,9.0,174,18,441,runs/experiment2.json
+10,A,Baseline,Free Movement,k,28,SUCCESS,11.0,80,22,442,runs/experiment2.json
+10,A,Improved,Free Movement,k,28,SUCCESS,8.0,206,16,443,runs/experiment2.json
+10,A,Free Optimized,Free Movement,k,28,SUCCESS,7.5,332,15,444,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.3,SUCCESS,12.0,488,24,445,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.3,SUCCESS,11.0,118,22,446,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,16.5,474,33,447,runs/experiment2.json
+10,B,Baseline,Free Movement,alpha,0.4,SUCCESS,6.0,314,12,448,runs/experiment2.json
+10,B,Improved,Free Movement,alpha,0.4,SUCCESS,31.0,290,62,449,runs/experiment2.json
+10,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,11.5,188,23,450,runs/experiment2.json
+11,A,Baseline,Free Movement,k,16,SUCCESS,10.5,174,21,451,runs/experiment2.json
+11,A,Improved,Free Movement,k,16,SUCCESS,8.5,104,17,452,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,16,SUCCESS,6.5,234,13,453,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.075,SUCCESS,14.0,486,28,454,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.075,SUCCESS,36.5,470,73,455,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,8.0,160,16,456,runs/experiment2.json
+11,A,Baseline,Free Movement,k,18,SUCCESS,54.0,354,108,457,runs/experiment2.json
+11,A,Improved,Free Movement,k,18,SUCCESS,11.0,126,22,458,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,296,12,459,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.1,SUCCESS,21.0,722,42,460,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.1,SUCCESS,9.0,200,18,461,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,8.5,180,17,462,runs/experiment2.json
+11,A,Baseline,Free Movement,k,20,SUCCESS,30.0,202,60,463,runs/experiment2.json
+11,A,Improved,Free Movement,k,20,SUCCESS,11.0,160,22,464,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,240,12,465,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.125,SUCCESS,7.5,508,15,466,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.125,SUCCESS,11.5,118,23,467,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,11.5,434,23,468,runs/experiment2.json
+11,A,Baseline,Free Movement,k,22,SUCCESS,95.5,392,191,469,runs/experiment2.json
+11,A,Improved,Free Movement,k,22,SUCCESS,10.0,134,20,470,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,244,12,471,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.15,SUCCESS,26.5,1280,53,472,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.15,SUCCESS,27.0,396,54,473,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,20.0,778,40,474,runs/experiment2.json
+11,A,Baseline,Free Movement,k,24,SUCCESS,17.0,104,34,475,runs/experiment2.json
+11,A,Improved,Free Movement,k,24,SUCCESS,10.5,130,21,476,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,284,11,477,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.2,SUCCESS,10.5,540,21,478,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.2,SUCCESS,30.0,528,60,479,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,13.5,852,27,480,runs/experiment2.json
+11,A,Baseline,Free Movement,k,26,SUCCESS,22.0,166,44,481,runs/experiment2.json
+11,A,Improved,Free Movement,k,26,SUCCESS,12.0,196,24,482,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,224,11,483,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.25,SUCCESS,8.5,512,17,484,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.25,SUCCESS,13.5,128,27,485,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,10.0,302,20,486,runs/experiment2.json
+11,A,Baseline,Free Movement,k,28,SUCCESS,65.5,242,131,487,runs/experiment2.json
+11,A,Improved,Free Movement,k,28,SUCCESS,12.0,190,24,488,runs/experiment2.json
+11,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,310,12,489,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.3,SUCCESS,8.0,528,16,490,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.3,SUCCESS,52.5,800,105,491,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,19.0,1326,38,492,runs/experiment2.json
+11,B,Baseline,Free Movement,alpha,0.4,SUCCESS,22.0,1634,44,493,runs/experiment2.json
+11,B,Improved,Free Movement,alpha,0.4,SUCCESS,19.0,188,38,494,runs/experiment2.json
+11,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,30.0,2184,60,495,runs/experiment2.json
+12,A,Baseline,Free Movement,k,16,SUCCESS,31.0,177,62,496,runs/experiment2.json
+12,A,Improved,Free Movement,k,16,SUCCESS,8.5,103,17,497,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,173,12,498,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.075,SUCCESS,33.0,709,66,499,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.075,SUCCESS,6.0,139,12,500,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,26.5,1197,53,501,runs/experiment2.json
+12,A,Baseline,Free Movement,k,18,SUCCESS,24.5,135,49,502,runs/experiment2.json
+12,A,Improved,Free Movement,k,18,SUCCESS,7.0,103,14,503,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,191,12,504,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.1,SUCCESS,12.5,593,25,505,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.1,SUCCESS,18.5,421,37,506,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,19.0,1065,38,507,runs/experiment2.json
+12,A,Baseline,Free Movement,k,20,SUCCESS,88.5,321,177,508,runs/experiment2.json
+12,A,Improved,Free Movement,k,20,SUCCESS,10.0,155,20,509,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,255,11,510,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.125,SUCCESS,9.5,263,19,511,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.125,SUCCESS,42.5,599,85,512,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,10.5,323,21,513,runs/experiment2.json
+12,A,Baseline,Free Movement,k,22,SUCCESS,99.0,327,198,514,runs/experiment2.json
+12,A,Improved,Free Movement,k,22,SUCCESS,8.5,163,17,515,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,201,10,516,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.15,SUCCESS,40.5,2469,81,517,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.15,SUCCESS,19.5,261,39,518,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,25.5,881,51,519,runs/experiment2.json
+12,A,Baseline,Free Movement,k,24,SUCCESS,84.5,291,169,520,runs/experiment2.json
+12,A,Improved,Free Movement,k,24,SUCCESS,8.5,185,17,521,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,259,11,522,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.2,SUCCESS,10.5,707,21,523,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.2,SUCCESS,16.0,293,32,524,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,8.5,319,17,525,runs/experiment2.json
+12,A,Baseline,Free Movement,k,26,SUCCESS,65.0,219,130,526,runs/experiment2.json
+12,A,Improved,Free Movement,k,26,SUCCESS,9.0,175,18,527,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,219,11,528,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.25,SUCCESS,19.0,983,38,529,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.25,SUCCESS,27.5,331,55,530,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,19.0,1099,38,531,runs/experiment2.json
+12,A,Baseline,Free Movement,k,28,SUCCESS,112.5,377,225,532,runs/experiment2.json
+12,A,Improved,Free Movement,k,28,SUCCESS,6.5,179,13,533,runs/experiment2.json
+12,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,257,11,534,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.3,SUCCESS,15.5,597,31,535,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.3,SUCCESS,31.0,361,62,536,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,43.5,3113,87,537,runs/experiment2.json
+12,B,Baseline,Free Movement,alpha,0.4,SUCCESS,22.0,1515,44,538,runs/experiment2.json
+12,B,Improved,Free Movement,alpha,0.4,SUCCESS,51.0,605,102,539,runs/experiment2.json
+12,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,78.5,7209,157,540,runs/experiment2.json
+13,A,Baseline,Free Movement,k,16,SUCCESS,11.0,204,22,541,runs/experiment2.json
+13,A,Improved,Free Movement,k,16,SUCCESS,12.0,132,24,542,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,248,12,543,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.075,SUCCESS,9.5,452,19,544,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.075,SUCCESS,10.5,310,21,545,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,15.5,900,31,546,runs/experiment2.json
+13,A,Baseline,Free Movement,k,18,SUCCESS,12.0,160,24,547,runs/experiment2.json
+13,A,Improved,Free Movement,k,18,SUCCESS,10.5,148,21,548,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,222,11,549,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.1,SUCCESS,11.5,350,23,550,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.1,SUCCESS,22.5,380,45,551,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,17.0,1124,34,552,runs/experiment2.json
+13,A,Baseline,Free Movement,k,20,SUCCESS,12.0,138,24,553,runs/experiment2.json
+13,A,Improved,Free Movement,k,20,SUCCESS,9.5,124,19,554,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,20,SUCCESS,5.0,326,10,555,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.125,SUCCESS,16.0,700,32,556,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.125,SUCCESS,11.0,120,22,557,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,17.5,926,35,558,runs/experiment2.json
+13,A,Baseline,Free Movement,k,22,SUCCESS,15.0,168,30,559,runs/experiment2.json
+13,A,Improved,Free Movement,k,22,SUCCESS,12.0,186,24,560,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,214,12,561,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.15,SUCCESS,5.5,564,11,562,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.15,SUCCESS,37.0,632,74,563,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,12.0,940,24,564,runs/experiment2.json
+13,A,Baseline,Free Movement,k,24,SUCCESS,36.5,188,73,565,runs/experiment2.json
+13,A,Improved,Free Movement,k,24,SUCCESS,11.5,180,23,566,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,236,11,567,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.2,SUCCESS,13.0,1034,26,568,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.2,SUCCESS,11.0,108,22,569,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,22.5,1514,45,570,runs/experiment2.json
+13,A,Baseline,Free Movement,k,26,SUCCESS,32.0,222,64,571,runs/experiment2.json
+13,A,Improved,Free Movement,k,26,SUCCESS,10.5,178,21,572,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,222,11,573,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.25,SUCCESS,20.0,1942,40,574,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.25,SUCCESS,46.5,956,93,575,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,13.5,1024,27,576,runs/experiment2.json
+13,A,Baseline,Free Movement,k,28,SUCCESS,88.0,342,176,577,runs/experiment2.json
+13,A,Improved,Free Movement,k,28,SUCCESS,8.5,166,17,578,runs/experiment2.json
+13,A,Free Optimized,Free Movement,k,28,SUCCESS,4.5,270,9,579,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.3,SUCCESS,17.5,1408,35,580,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.3,SUCCESS,27.5,372,55,581,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,9.0,360,18,582,runs/experiment2.json
+13,B,Baseline,Free Movement,alpha,0.4,SUCCESS,30.5,2198,61,583,runs/experiment2.json
+13,B,Improved,Free Movement,alpha,0.4,SUCCESS,35.0,414,70,584,runs/experiment2.json
+13,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,14.0,884,28,585,runs/experiment2.json
+14,A,Baseline,Free Movement,k,16,SUCCESS,47.5,222,95,586,runs/experiment2.json
+14,A,Improved,Free Movement,k,16,SUCCESS,6.5,80,13,587,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,16,SUCCESS,3.0,126,6,588,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.075,SUCCESS,16.0,552,32,589,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.075,SUCCESS,26.0,242,52,590,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,29.5,564,59,591,runs/experiment2.json
+14,A,Baseline,Free Movement,k,18,SUCCESS,11.0,126,22,592,runs/experiment2.json
+14,A,Improved,Free Movement,k,18,SUCCESS,8.0,84,16,593,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,170,11,594,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.1,SUCCESS,15.0,294,30,595,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.1,SUCCESS,4.5,38,9,596,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,16.0,524,32,597,runs/experiment2.json
+14,A,Baseline,Free Movement,k,20,SUCCESS,10.0,92,20,598,runs/experiment2.json
+14,A,Improved,Free Movement,k,20,SUCCESS,5.0,82,10,599,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,20,SUCCESS,5.0,196,10,600,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.125,SUCCESS,21.0,540,42,601,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.125,SUCCESS,22.0,368,44,602,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,25.5,606,51,603,runs/experiment2.json
+14,A,Baseline,Free Movement,k,22,SUCCESS,5.5,82,11,604,runs/experiment2.json
+14,A,Improved,Free Movement,k,22,SUCCESS,5.5,86,11,605,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,198,11,606,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.15,SUCCESS,12.0,1402,24,607,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.15,SUCCESS,25.0,504,50,608,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,15.0,386,30,609,runs/experiment2.json
+14,A,Baseline,Free Movement,k,24,SUCCESS,7.5,50,15,610,runs/experiment2.json
+14,A,Improved,Free Movement,k,24,SUCCESS,7.5,158,15,611,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,212,11,612,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.2,SUCCESS,14.0,1398,28,613,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.2,SUCCESS,7.5,96,15,614,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,13.5,790,27,615,runs/experiment2.json
+14,A,Baseline,Free Movement,k,26,SUCCESS,23.5,114,47,616,runs/experiment2.json
+14,A,Improved,Free Movement,k,26,SUCCESS,6.5,162,13,617,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,232,11,618,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.25,SUCCESS,17.5,1326,35,619,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.25,SUCCESS,23.0,294,46,620,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,19.5,922,39,621,runs/experiment2.json
+14,A,Baseline,Free Movement,k,28,SUCCESS,17.5,108,35,622,runs/experiment2.json
+14,A,Improved,Free Movement,k,28,SUCCESS,9.5,144,19,623,runs/experiment2.json
+14,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,284,12,624,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.3,SUCCESS,5.5,392,11,625,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.3,SUCCESS,5.5,56,11,626,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,18.5,668,37,627,runs/experiment2.json
+14,B,Baseline,Free Movement,alpha,0.4,SUCCESS,7.0,406,14,628,runs/experiment2.json
+14,B,Improved,Free Movement,alpha,0.4,SUCCESS,10.0,62,20,629,runs/experiment2.json
+14,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,9.5,660,19,630,runs/experiment2.json
+15,A,Baseline,Free Movement,k,16,SUCCESS,33.0,212,66,631,runs/experiment2.json
+15,A,Improved,Free Movement,k,16,SUCCESS,9.0,102,18,632,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,190,12,633,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.075,SUCCESS,29.0,1740,58,634,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.075,SUCCESS,30.5,436,61,635,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,17.0,334,34,636,runs/experiment2.json
+15,A,Baseline,Free Movement,k,18,SUCCESS,33.0,192,66,637,runs/experiment2.json
+15,A,Improved,Free Movement,k,18,SUCCESS,7.0,84,14,638,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,300,12,639,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.1,SUCCESS,14.5,778,29,640,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.1,SUCCESS,15.5,144,31,641,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,15.5,498,31,642,runs/experiment2.json
+15,A,Baseline,Free Movement,k,20,SUCCESS,99.0,312,198,643,runs/experiment2.json
+15,A,Improved,Free Movement,k,20,SUCCESS,8.5,98,17,644,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,278,12,645,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.125,SUCCESS,13.5,566,27,646,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.125,SUCCESS,30.5,502,61,647,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,18.5,570,37,648,runs/experiment2.json
+15,A,Baseline,Free Movement,k,22,SUCCESS,142.5,518,285,649,runs/experiment2.json
+15,A,Improved,Free Movement,k,22,SUCCESS,6.5,86,13,650,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,280,12,651,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.15,SUCCESS,29.5,1666,59,652,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.15,SUCCESS,30.5,470,61,653,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,11.0,222,22,654,runs/experiment2.json
+15,A,Baseline,Free Movement,k,24,SUCCESS,46.0,180,92,655,runs/experiment2.json
+15,A,Improved,Free Movement,k,24,SUCCESS,8.0,108,16,656,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,274,12,657,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.2,SUCCESS,26.5,2550,53,658,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.2,SUCCESS,24.5,208,49,659,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,19.5,1302,39,660,runs/experiment2.json
+15,A,Baseline,Free Movement,k,26,SUCCESS,45.5,190,91,661,runs/experiment2.json
+15,A,Improved,Free Movement,k,26,SUCCESS,7.5,94,15,662,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,342,12,663,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.25,SUCCESS,17.5,1602,35,664,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.25,SUCCESS,22.5,324,45,665,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,36.0,1760,72,666,runs/experiment2.json
+15,A,Baseline,Free Movement,k,28,SUCCESS,130.0,470,260,667,runs/experiment2.json
+15,A,Improved,Free Movement,k,28,SUCCESS,6.0,100,12,668,runs/experiment2.json
+15,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,294,11,669,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.3,SUCCESS,39.0,3626,78,670,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.3,SUCCESS,35.0,440,70,671,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,11.0,264,22,672,runs/experiment2.json
+15,B,Baseline,Free Movement,alpha,0.4,SUCCESS,24.0,2172,48,673,runs/experiment2.json
+15,B,Improved,Free Movement,alpha,0.4,SUCCESS,40.5,464,81,674,runs/experiment2.json
+15,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,25.5,1820,51,675,runs/experiment2.json
+16,A,Baseline,Free Movement,k,16,SUCCESS,92.5,344,185,676,runs/experiment2.json
+16,A,Improved,Free Movement,k,16,SUCCESS,9.0,136,18,677,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,16,SUCCESS,6.5,262,13,678,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.075,SUCCESS,30.0,574,60,679,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.075,SUCCESS,26.5,202,53,680,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,17.0,478,34,681,runs/experiment2.json
+16,A,Baseline,Free Movement,k,18,SUCCESS,65.0,198,130,682,runs/experiment2.json
+16,A,Improved,Free Movement,k,18,SUCCESS,9.0,140,18,683,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,244,12,684,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.1,SUCCESS,17.0,462,34,685,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.1,SUCCESS,37.0,342,74,686,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,30.0,1166,60,687,runs/experiment2.json
+16,A,Baseline,Free Movement,k,20,SUCCESS,24.5,166,49,688,runs/experiment2.json
+16,A,Improved,Free Movement,k,20,SUCCESS,6.5,118,13,689,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,262,12,690,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.125,SUCCESS,23.0,496,46,691,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.125,SUCCESS,17.0,222,34,692,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,30.5,1234,61,693,runs/experiment2.json
+16,A,Baseline,Free Movement,k,22,SUCCESS,52.0,232,104,694,runs/experiment2.json
+16,A,Improved,Free Movement,k,22,SUCCESS,6.5,122,13,695,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,204,12,696,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.15,SUCCESS,23.5,896,47,697,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.15,SUCCESS,31.0,650,62,698,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,29.5,606,59,699,runs/experiment2.json
+16,A,Baseline,Free Movement,k,24,SUCCESS,31.5,194,63,700,runs/experiment2.json
+16,A,Improved,Free Movement,k,24,SUCCESS,8.0,160,16,701,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,24,SUCCESS,6.5,224,13,702,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.2,SUCCESS,7.0,740,14,703,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.2,SUCCESS,19.5,366,39,704,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,9.0,158,18,705,runs/experiment2.json
+16,A,Baseline,Free Movement,k,26,SUCCESS,34.0,238,68,706,runs/experiment2.json
+16,A,Improved,Free Movement,k,26,SUCCESS,12.5,228,25,707,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,222,12,708,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.25,SUCCESS,6.0,684,12,709,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.25,SUCCESS,40.5,552,81,710,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,49.5,4160,99,711,runs/experiment2.json
+16,A,Baseline,Free Movement,k,28,SUCCESS,6.0,144,12,712,runs/experiment2.json
+16,A,Improved,Free Movement,k,28,SUCCESS,7.0,136,14,713,runs/experiment2.json
+16,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,334,12,714,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.3,SUCCESS,12.5,494,25,715,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.3,SUCCESS,33.5,408,67,716,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,32.0,2564,64,717,runs/experiment2.json
+16,B,Baseline,Free Movement,alpha,0.4,SUCCESS,6.0,684,12,718,runs/experiment2.json
+16,B,Improved,Free Movement,alpha,0.4,SUCCESS,80.5,1050,161,719,runs/experiment2.json
+16,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,39.0,2868,78,720,runs/experiment2.json
+17,A,Baseline,Free Movement,k,16,SUCCESS,22.0,179,44,721,runs/experiment2.json
+17,A,Improved,Free Movement,k,16,SUCCESS,9.0,121,18,722,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,217,12,723,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.075,SUCCESS,13.5,671,27,724,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.075,SUCCESS,9.5,143,19,725,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,18.0,335,36,726,runs/experiment2.json
+17,A,Baseline,Free Movement,k,18,SUCCESS,19.5,161,39,727,runs/experiment2.json
+17,A,Improved,Free Movement,k,18,SUCCESS,7.5,101,15,728,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,185,12,729,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.1,SUCCESS,16.0,1223,32,730,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.1,SUCCESS,10.0,125,20,731,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,24.0,533,48,732,runs/experiment2.json
+17,A,Baseline,Free Movement,k,20,SUCCESS,9.0,137,18,733,runs/experiment2.json
+17,A,Improved,Free Movement,k,20,SUCCESS,5.0,91,10,734,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,185,12,735,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.125,SUCCESS,16.5,915,33,736,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.125,SUCCESS,12.5,143,25,737,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,10.5,273,21,738,runs/experiment2.json
+17,A,Baseline,Free Movement,k,22,SUCCESS,5.0,137,10,739,runs/experiment2.json
+17,A,Improved,Free Movement,k,22,SUCCESS,6.0,93,12,740,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,241,10,741,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.15,SUCCESS,19.0,979,38,742,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.15,SUCCESS,8.5,113,17,743,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,11.0,421,22,744,runs/experiment2.json
+17,A,Baseline,Free Movement,k,24,SUCCESS,4.0,111,8,745,runs/experiment2.json
+17,A,Improved,Free Movement,k,24,SUCCESS,7.0,151,14,746,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,245,11,747,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.2,SUCCESS,16.5,1119,33,748,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.2,SUCCESS,23.0,333,46,749,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,45.5,2837,91,750,runs/experiment2.json
+17,A,Baseline,Free Movement,k,26,SUCCESS,3.0,117,6,751,runs/experiment2.json
+17,A,Improved,Free Movement,k,26,SUCCESS,6.0,165,12,752,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,26,SUCCESS,5.0,227,10,753,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.25,SUCCESS,22.0,1407,44,754,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.25,SUCCESS,21.0,183,42,755,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,8.0,429,16,756,runs/experiment2.json
+17,A,Baseline,Free Movement,k,28,SUCCESS,2.0,125,4,757,runs/experiment2.json
+17,A,Improved,Free Movement,k,28,SUCCESS,5.0,151,10,758,runs/experiment2.json
+17,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,241,10,759,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.3,SUCCESS,31.5,2287,63,760,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.3,SUCCESS,34.5,509,69,761,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,10.0,413,20,762,runs/experiment2.json
+17,B,Baseline,Free Movement,alpha,0.4,SUCCESS,29.5,2265,59,763,runs/experiment2.json
+17,B,Improved,Free Movement,alpha,0.4,SUCCESS,23.0,185,46,764,runs/experiment2.json
+17,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,5.0,97,10,765,runs/experiment2.json
+18,A,Baseline,Free Movement,k,16,SUCCESS,5.0,39,10,766,runs/experiment2.json
+18,A,Improved,Free Movement,k,16,SUCCESS,5.5,65,11,767,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,16,SUCCESS,5.0,199,10,768,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.075,SUCCESS,12.0,355,24,769,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.075,SUCCESS,34.0,291,68,770,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,15.0,395,30,771,runs/experiment2.json
+18,A,Baseline,Free Movement,k,18,SUCCESS,30.5,105,61,772,runs/experiment2.json
+18,A,Improved,Free Movement,k,18,SUCCESS,5.5,83,11,773,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,225,11,774,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.1,SUCCESS,15.0,755,30,775,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.1,SUCCESS,26.5,443,53,776,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,15.5,297,31,777,runs/experiment2.json
+18,A,Baseline,Free Movement,k,20,SUCCESS,38.5,129,77,778,runs/experiment2.json
+18,A,Improved,Free Movement,k,20,SUCCESS,7.5,103,15,779,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,193,12,780,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.125,SUCCESS,23.0,1735,46,781,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.125,SUCCESS,6.5,137,13,782,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,10.0,361,20,783,runs/experiment2.json
+18,A,Baseline,Free Movement,k,22,SUCCESS,54.0,169,108,784,runs/experiment2.json
+18,A,Improved,Free Movement,k,22,SUCCESS,6.5,113,13,785,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,215,11,786,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.15,SUCCESS,10.5,645,21,787,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.15,SUCCESS,16.5,233,33,788,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,13.0,445,26,789,runs/experiment2.json
+18,A,Baseline,Free Movement,k,24,SUCCESS,101.0,323,202,790,runs/experiment2.json
+18,A,Improved,Free Movement,k,24,SUCCESS,8.5,175,17,791,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,24,SUCCESS,6.5,253,13,792,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.2,SUCCESS,12.5,665,25,793,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.2,SUCCESS,29.5,295,59,794,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,24.5,841,49,795,runs/experiment2.json
+18,A,Baseline,Free Movement,k,26,SUCCESS,30.5,153,61,796,runs/experiment2.json
+18,A,Improved,Free Movement,k,26,SUCCESS,8.0,111,16,797,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,339,11,798,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.25,SUCCESS,20.0,1621,40,799,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.25,SUCCESS,23.0,229,46,800,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,23.0,827,46,801,runs/experiment2.json
+18,A,Baseline,Free Movement,k,28,SUCCESS,198.5,587,397,802,runs/experiment2.json
+18,A,Improved,Free Movement,k,28,SUCCESS,6.5,105,13,803,runs/experiment2.json
+18,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,327,11,804,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.3,SUCCESS,22.5,1551,45,805,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.3,SUCCESS,16.5,209,33,806,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,18.5,1383,37,807,runs/experiment2.json
+18,B,Baseline,Free Movement,alpha,0.4,SUCCESS,11.5,693,23,808,runs/experiment2.json
+18,B,Improved,Free Movement,alpha,0.4,SUCCESS,28.0,309,56,809,runs/experiment2.json
+18,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,22.0,1377,44,810,runs/experiment2.json
+19,A,Baseline,Free Movement,k,16,SUCCESS,20.0,123,40,811,runs/experiment2.json
+19,A,Improved,Free Movement,k,16,SUCCESS,10.5,127,21,812,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,229,12,813,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.075,SUCCESS,35.0,1149,70,814,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.075,SUCCESS,27.5,207,55,815,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,9.0,131,18,816,runs/experiment2.json
+19,A,Baseline,Free Movement,k,18,SUCCESS,18.0,157,36,817,runs/experiment2.json
+19,A,Improved,Free Movement,k,18,SUCCESS,9.0,175,18,818,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,201,12,819,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.1,SUCCESS,10.5,457,21,820,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.1,SUCCESS,19.5,443,39,821,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,35.5,983,71,822,runs/experiment2.json
+19,A,Baseline,Free Movement,k,20,SUCCESS,100.5,415,201,823,runs/experiment2.json
+19,A,Improved,Free Movement,k,20,SUCCESS,9.5,111,19,824,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,239,12,825,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.125,SUCCESS,10.5,727,21,826,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.125,SUCCESS,24.0,495,48,827,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,11.5,201,23,828,runs/experiment2.json
+19,A,Baseline,Free Movement,k,22,SUCCESS,134.5,541,269,829,runs/experiment2.json
+19,A,Improved,Free Movement,k,22,SUCCESS,9.0,145,18,830,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,265,12,831,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.15,SUCCESS,18.0,1063,36,832,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.15,SUCCESS,19.5,213,39,833,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,5.0,171,10,834,runs/experiment2.json
+19,A,Baseline,Free Movement,k,24,SUCCESS,9.0,121,18,835,runs/experiment2.json
+19,A,Improved,Free Movement,k,24,SUCCESS,7.0,105,14,836,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,249,12,837,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.2,SUCCESS,7.5,187,15,838,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.2,SUCCESS,17.0,187,34,839,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,4.0,163,8,840,runs/experiment2.json
+19,A,Baseline,Free Movement,k,26,SUCCESS,9.0,125,18,841,runs/experiment2.json
+19,A,Improved,Free Movement,k,26,SUCCESS,7.0,113,14,842,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,281,12,843,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.25,SUCCESS,10.0,869,20,844,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.25,SUCCESS,15.5,135,31,845,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,4.0,151,8,846,runs/experiment2.json
+19,A,Baseline,Free Movement,k,28,SUCCESS,49.0,217,98,847,runs/experiment2.json
+19,A,Improved,Free Movement,k,28,SUCCESS,8.0,113,16,848,runs/experiment2.json
+19,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,239,12,849,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.3,SUCCESS,11.0,857,22,850,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.3,SUCCESS,67.0,1131,134,851,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,5.0,157,10,852,runs/experiment2.json
+19,B,Baseline,Free Movement,alpha,0.4,SUCCESS,42.0,3495,84,853,runs/experiment2.json
+19,B,Improved,Free Movement,alpha,0.4,SUCCESS,26.0,179,52,854,runs/experiment2.json
+19,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,26.0,1877,52,855,runs/experiment2.json
+20,A,Baseline,Free Movement,k,16,SUCCESS,15.5,208,31,856,runs/experiment2.json
+20,A,Improved,Free Movement,k,16,SUCCESS,9.0,114,18,857,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,254,12,858,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.075,SUCCESS,12.0,638,24,859,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.075,SUCCESS,13.5,88,27,860,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,19.5,1236,39,861,runs/experiment2.json
+20,A,Baseline,Free Movement,k,18,SUCCESS,24.5,122,49,862,runs/experiment2.json
+20,A,Improved,Free Movement,k,18,SUCCESS,10.0,152,20,863,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,246,11,864,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.1,SUCCESS,10.5,438,21,865,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.1,SUCCESS,27.0,482,54,866,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,7.5,272,15,867,runs/experiment2.json
+20,A,Baseline,Free Movement,k,20,SUCCESS,5.0,160,10,868,runs/experiment2.json
+20,A,Improved,Free Movement,k,20,SUCCESS,6.0,118,12,869,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,266,11,870,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.125,SUCCESS,8.0,866,16,871,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.125,SUCCESS,14.5,126,29,872,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,19.5,848,39,873,runs/experiment2.json
+20,A,Baseline,Free Movement,k,22,SUCCESS,18.5,224,37,874,runs/experiment2.json
+20,A,Improved,Free Movement,k,22,SUCCESS,6.5,126,13,875,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,244,12,876,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.15,SUCCESS,20.0,736,40,877,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.15,SUCCESS,13.5,236,27,878,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,13.5,746,27,879,runs/experiment2.json
+20,A,Baseline,Free Movement,k,24,SUCCESS,12.5,112,25,880,runs/experiment2.json
+20,A,Improved,Free Movement,k,24,SUCCESS,6.5,144,13,881,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,24,SUCCESS,6.5,360,13,882,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.2,SUCCESS,15.5,902,31,883,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.2,SUCCESS,36.5,792,73,884,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,27.0,1954,54,885,runs/experiment2.json
+20,A,Baseline,Free Movement,k,26,SUCCESS,14.5,134,29,886,runs/experiment2.json
+20,A,Improved,Free Movement,k,26,SUCCESS,9.5,162,19,887,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,246,12,888,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.25,SUCCESS,10.5,1140,21,889,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.25,SUCCESS,12.0,110,24,890,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,29.0,2388,58,891,runs/experiment2.json
+20,A,Baseline,Free Movement,k,28,SUCCESS,15.5,136,31,892,runs/experiment2.json
+20,A,Improved,Free Movement,k,28,SUCCESS,9.5,254,19,893,runs/experiment2.json
+20,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,336,12,894,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.3,SUCCESS,11.5,1312,23,895,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.3,SUCCESS,44.5,666,89,896,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,37.5,3370,75,897,runs/experiment2.json
+20,B,Baseline,Free Movement,alpha,0.4,SUCCESS,10.5,1084,21,898,runs/experiment2.json
+20,B,Improved,Free Movement,alpha,0.4,SUCCESS,20.0,214,40,899,runs/experiment2.json
+20,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,14.5,870,29,900,runs/experiment2.json
+21,A,Baseline,Free Movement,k,16,SUCCESS,4.5,104,9,901,runs/experiment2.json
+21,A,Improved,Free Movement,k,16,SUCCESS,6.0,72,12,902,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,200,12,903,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.075,SUCCESS,24.5,1342,49,904,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.075,SUCCESS,16.0,242,32,905,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,21.5,842,43,906,runs/experiment2.json
+21,A,Baseline,Free Movement,k,18,SUCCESS,2.5,30,5,907,runs/experiment2.json
+21,A,Improved,Free Movement,k,18,SUCCESS,6.5,96,13,908,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,146,12,909,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.1,SUCCESS,23.0,882,46,910,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.1,SUCCESS,16.0,188,32,911,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,40.5,2402,81,912,runs/experiment2.json
+21,A,Baseline,Free Movement,k,20,SUCCESS,19.0,80,38,913,runs/experiment2.json
+21,A,Improved,Free Movement,k,20,SUCCESS,7.0,96,14,914,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,226,11,915,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.125,SUCCESS,16.5,454,33,916,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.125,SUCCESS,23.5,380,47,917,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,8.0,588,16,918,runs/experiment2.json
+21,A,Baseline,Free Movement,k,22,SUCCESS,80.5,224,161,919,runs/experiment2.json
+21,A,Improved,Free Movement,k,22,SUCCESS,5.5,102,11,920,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,250,11,921,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.15,SUCCESS,21.0,750,42,922,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.15,SUCCESS,30.0,474,60,923,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,19.0,806,38,924,runs/experiment2.json
+21,A,Baseline,Free Movement,k,24,SUCCESS,12.5,72,25,925,runs/experiment2.json
+21,A,Improved,Free Movement,k,24,SUCCESS,6.0,114,12,926,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,258,12,927,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.2,SUCCESS,19.0,540,38,928,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.2,SUCCESS,39.0,486,78,929,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,27.5,1404,55,930,runs/experiment2.json
+21,A,Baseline,Free Movement,k,26,SUCCESS,152.0,430,304,931,runs/experiment2.json
+21,A,Improved,Free Movement,k,26,SUCCESS,8.5,166,17,932,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,302,12,933,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.25,SUCCESS,16.0,854,32,934,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.25,SUCCESS,26.5,316,53,935,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,20.5,1236,41,936,runs/experiment2.json
+21,A,Baseline,Free Movement,k,28,SUCCESS,163.0,518,326,937,runs/experiment2.json
+21,A,Improved,Free Movement,k,28,SUCCESS,9.5,232,19,938,runs/experiment2.json
+21,A,Free Optimized,Free Movement,k,28,SUCCESS,16.5,294,33,939,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.3,SUCCESS,16.5,1248,33,940,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.3,SUCCESS,11.5,128,23,941,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,33.0,1518,66,942,runs/experiment2.json
+21,B,Baseline,Free Movement,alpha,0.4,SUCCESS,19.5,1834,39,943,runs/experiment2.json
+21,B,Improved,Free Movement,alpha,0.4,SUCCESS,8.5,66,17,944,runs/experiment2.json
+21,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,20.0,624,40,945,runs/experiment2.json
+22,A,Baseline,Free Movement,k,16,SUCCESS,33.5,176,67,946,runs/experiment2.json
+22,A,Improved,Free Movement,k,16,SUCCESS,9.0,102,18,947,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,16,SUCCESS,6.5,204,13,948,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.075,SUCCESS,36.0,744,72,949,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.075,SUCCESS,43.5,548,87,950,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,11.0,228,22,951,runs/experiment2.json
+22,A,Baseline,Free Movement,k,18,SUCCESS,7.5,70,15,952,runs/experiment2.json
+22,A,Improved,Free Movement,k,18,SUCCESS,6.5,106,13,953,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,254,11,954,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.1,SUCCESS,28.5,786,57,955,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.1,SUCCESS,17.0,190,34,956,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,14.5,524,29,957,runs/experiment2.json
+22,A,Baseline,Free Movement,k,20,SUCCESS,20.0,104,40,958,runs/experiment2.json
+22,A,Improved,Free Movement,k,20,SUCCESS,6.5,102,13,959,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,270,11,960,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.125,SUCCESS,19.0,1064,38,961,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.125,SUCCESS,26.0,550,52,962,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,11.5,394,23,963,runs/experiment2.json
+22,A,Baseline,Free Movement,k,22,SUCCESS,72.0,226,144,964,runs/experiment2.json
+22,A,Improved,Free Movement,k,22,SUCCESS,8.5,108,17,965,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,232,11,966,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.15,SUCCESS,16.5,556,33,967,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.15,SUCCESS,14.0,260,28,968,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,16.0,362,32,969,runs/experiment2.json
+22,A,Baseline,Free Movement,k,24,SUCCESS,129.0,448,258,970,runs/experiment2.json
+22,A,Improved,Free Movement,k,24,SUCCESS,6.0,88,12,971,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,322,11,972,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.2,SUCCESS,25.0,820,50,973,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.2,SUCCESS,17.5,174,35,974,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,20.5,876,41,975,runs/experiment2.json
+22,A,Baseline,Free Movement,k,26,SUCCESS,130.5,456,261,976,runs/experiment2.json
+22,A,Improved,Free Movement,k,26,SUCCESS,5.0,86,10,977,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,26,SUCCESS,5.0,358,10,978,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.25,SUCCESS,37.0,3414,74,979,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.25,SUCCESS,15.5,224,31,980,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,14.5,400,29,981,runs/experiment2.json
+22,A,Baseline,Free Movement,k,28,SUCCESS,87.5,316,175,982,runs/experiment2.json
+22,A,Improved,Free Movement,k,28,SUCCESS,7.0,150,14,983,runs/experiment2.json
+22,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,304,10,984,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.3,SUCCESS,11.0,562,22,985,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.3,SUCCESS,34.5,482,69,986,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,50.0,4094,100,987,runs/experiment2.json
+22,B,Baseline,Free Movement,alpha,0.4,SUCCESS,19.0,1478,38,988,runs/experiment2.json
+22,B,Improved,Free Movement,alpha,0.4,SUCCESS,35.0,382,70,989,runs/experiment2.json
+22,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,23.0,1544,46,990,runs/experiment2.json
+23,A,Baseline,Free Movement,k,16,SUCCESS,43.5,189,87,991,runs/experiment2.json
+23,A,Improved,Free Movement,k,16,SUCCESS,12.0,161,24,992,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,241,11,993,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.075,SUCCESS,28.0,1367,56,994,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.075,SUCCESS,10.0,101,20,995,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,22.0,525,44,996,runs/experiment2.json
+23,A,Baseline,Free Movement,k,18,SUCCESS,19.5,225,39,997,runs/experiment2.json
+23,A,Improved,Free Movement,k,18,SUCCESS,11.5,153,23,998,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,239,12,999,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.1,SUCCESS,14.0,843,28,1000,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.1,SUCCESS,13.5,151,27,1001,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,10.5,373,21,1002,runs/experiment2.json
+23,A,Baseline,Free Movement,k,20,SUCCESS,67.0,207,134,1003,runs/experiment2.json
+23,A,Improved,Free Movement,k,20,SUCCESS,10.0,125,20,1004,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,20,SUCCESS,6.5,223,13,1005,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.125,SUCCESS,22.5,439,45,1006,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.125,SUCCESS,31.5,603,63,1007,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,2.5,179,5,1008,runs/experiment2.json
+23,A,Baseline,Free Movement,k,22,SUCCESS,155.0,557,310,1009,runs/experiment2.json
+23,A,Improved,Free Movement,k,22,SUCCESS,10.0,159,20,1010,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,189,11,1011,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.15,SUCCESS,12.5,623,25,1012,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.15,SUCCESS,60.5,1195,121,1013,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,5.0,187,10,1014,runs/experiment2.json
+23,A,Baseline,Free Movement,k,24,SUCCESS,102.5,319,205,1015,runs/experiment2.json
+23,A,Improved,Free Movement,k,24,SUCCESS,10.0,145,20,1016,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,261,11,1017,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.2,SUCCESS,17.5,819,35,1018,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.2,SUCCESS,10.5,89,21,1019,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,14.5,287,29,1020,runs/experiment2.json
+23,A,Baseline,Free Movement,k,26,SUCCESS,131.0,431,262,1021,runs/experiment2.json
+23,A,Improved,Free Movement,k,26,SUCCESS,5.0,131,10,1022,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,26,SUCCESS,1.0,53,2,1023,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.25,SUCCESS,13.0,761,26,1024,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.25,SUCCESS,60.0,1029,120,1025,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,15.5,649,31,1026,runs/experiment2.json
+23,A,Baseline,Free Movement,k,28,SUCCESS,106.5,357,213,1027,runs/experiment2.json
+23,A,Improved,Free Movement,k,28,SUCCESS,6.5,137,13,1028,runs/experiment2.json
+23,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,195,11,1029,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.3,SUCCESS,20.5,1691,41,1030,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.3,SUCCESS,14.0,103,28,1031,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,6.5,231,13,1032,runs/experiment2.json
+23,B,Baseline,Free Movement,alpha,0.4,SUCCESS,103.0,9837,206,1033,runs/experiment2.json
+23,B,Improved,Free Movement,alpha,0.4,SUCCESS,39.5,541,79,1034,runs/experiment2.json
+23,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,12.0,431,24,1035,runs/experiment2.json
+24,A,Baseline,Free Movement,k,16,SUCCESS,1.5,28,3,1036,runs/experiment2.json
+24,A,Improved,Free Movement,k,16,SUCCESS,6.5,96,13,1037,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,16,SUCCESS,6.5,302,13,1038,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.075,SUCCESS,26.5,1936,53,1039,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.075,SUCCESS,30.0,446,60,1040,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,24.0,628,48,1041,runs/experiment2.json
+24,A,Baseline,Free Movement,k,18,SUCCESS,19.0,64,38,1042,runs/experiment2.json
+24,A,Improved,Free Movement,k,18,SUCCESS,4.5,82,9,1043,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,218,11,1044,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.1,SUCCESS,20.5,1560,41,1045,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.1,SUCCESS,16.0,116,32,1046,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,32.5,1922,65,1047,runs/experiment2.json
+24,A,Baseline,Free Movement,k,20,SUCCESS,68.0,194,136,1048,runs/experiment2.json
+24,A,Improved,Free Movement,k,20,SUCCESS,8.5,130,17,1049,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,20,SUCCESS,4.5,138,9,1050,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.125,SUCCESS,39.5,1744,79,1051,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.125,SUCCESS,24.0,580,48,1052,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,14.0,658,28,1053,runs/experiment2.json
+24,A,Baseline,Free Movement,k,22,SUCCESS,24.0,52,48,1054,runs/experiment2.json
+24,A,Improved,Free Movement,k,22,SUCCESS,7.5,140,15,1055,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,178,10,1056,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.15,SUCCESS,16.0,816,32,1057,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.15,SUCCESS,13.5,138,27,1058,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,10.0,480,20,1059,runs/experiment2.json
+24,A,Baseline,Free Movement,k,24,SUCCESS,146.0,440,292,1060,runs/experiment2.json
+24,A,Improved,Free Movement,k,24,SUCCESS,7.5,154,15,1061,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,24,SUCCESS,5.0,154,10,1062,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.2,SUCCESS,11.0,740,22,1063,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.2,SUCCESS,16.0,210,32,1064,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,35.5,1890,71,1065,runs/experiment2.json
+24,A,Baseline,Free Movement,k,26,SUCCESS,44.0,96,88,1066,runs/experiment2.json
+24,A,Improved,Free Movement,k,26,SUCCESS,9.0,178,18,1067,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,26,SUCCESS,5.0,210,10,1068,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.25,SUCCESS,9.5,524,19,1069,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.25,SUCCESS,6.5,38,13,1070,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,8.0,400,16,1071,runs/experiment2.json
+24,A,Baseline,Free Movement,k,28,SUCCESS,73.5,196,147,1072,runs/experiment2.json
+24,A,Improved,Free Movement,k,28,SUCCESS,8.0,192,16,1073,runs/experiment2.json
+24,A,Free Optimized,Free Movement,k,28,SUCCESS,7.0,434,14,1074,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.3,SUCCESS,14.0,1462,28,1075,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.3,SUCCESS,32.5,418,65,1076,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,20.0,976,40,1077,runs/experiment2.json
+24,B,Baseline,Free Movement,alpha,0.4,SUCCESS,13.5,1386,27,1078,runs/experiment2.json
+24,B,Improved,Free Movement,alpha,0.4,SUCCESS,26.5,306,53,1079,runs/experiment2.json
+24,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,19.5,1664,39,1080,runs/experiment2.json
+25,A,Baseline,Free Movement,k,16,SUCCESS,14.0,83,28,1081,runs/experiment2.json
+25,A,Improved,Free Movement,k,16,SUCCESS,9.0,163,18,1082,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,16,SUCCESS,4.0,275,8,1083,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.075,SUCCESS,24.5,297,49,1084,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.075,SUCCESS,8.0,77,16,1085,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,17.0,407,34,1086,runs/experiment2.json
+25,A,Baseline,Free Movement,k,18,SUCCESS,16.0,61,32,1087,runs/experiment2.json
+25,A,Improved,Free Movement,k,18,SUCCESS,10.5,123,21,1088,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,201,11,1089,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.1,SUCCESS,3.5,277,7,1090,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.1,SUCCESS,11.0,113,22,1091,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,25.0,1399,50,1092,runs/experiment2.json
+25,A,Baseline,Free Movement,k,20,SUCCESS,12.5,55,25,1093,runs/experiment2.json
+25,A,Improved,Free Movement,k,20,SUCCESS,8.5,141,17,1094,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,271,12,1095,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.125,SUCCESS,15.0,1751,30,1096,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.125,SUCCESS,13.5,99,27,1097,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,11.5,829,23,1098,runs/experiment2.json
+25,A,Baseline,Free Movement,k,22,SUCCESS,9.5,49,19,1099,runs/experiment2.json
+25,A,Improved,Free Movement,k,22,SUCCESS,7.0,131,14,1100,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,22,SUCCESS,4.5,225,9,1101,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.15,SUCCESS,4.0,279,8,1102,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.15,SUCCESS,5.0,49,10,1103,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,12.0,193,24,1104,runs/experiment2.json
+25,A,Baseline,Free Movement,k,24,SUCCESS,4.5,45,9,1105,runs/experiment2.json
+25,A,Improved,Free Movement,k,24,SUCCESS,5.0,121,10,1106,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,24,SUCCESS,3.5,183,7,1107,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.2,SUCCESS,14.0,897,28,1108,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.2,SUCCESS,7.0,131,14,1109,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,9.5,639,19,1110,runs/experiment2.json
+25,A,Baseline,Free Movement,k,26,SUCCESS,58.0,155,116,1111,runs/experiment2.json
+25,A,Improved,Free Movement,k,26,SUCCESS,5.5,125,11,1112,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,321,12,1113,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.25,SUCCESS,15.0,1033,30,1114,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.25,SUCCESS,18.0,263,36,1115,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,10.5,679,21,1116,runs/experiment2.json
+25,A,Baseline,Free Movement,k,28,SUCCESS,45.0,217,90,1117,runs/experiment2.json
+25,A,Improved,Free Movement,k,28,SUCCESS,8.5,175,17,1118,runs/experiment2.json
+25,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,275,11,1119,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.3,SUCCESS,19.0,1881,38,1120,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.3,SUCCESS,5.0,71,10,1121,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,32.5,2523,65,1122,runs/experiment2.json
+25,B,Baseline,Free Movement,alpha,0.4,SUCCESS,17.5,1319,35,1123,runs/experiment2.json
+25,B,Improved,Free Movement,alpha,0.4,SUCCESS,28.0,271,56,1124,runs/experiment2.json
+25,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,23.0,1523,46,1125,runs/experiment2.json
+26,A,Baseline,Free Movement,k,16,SUCCESS,4.0,26,8,1126,runs/experiment2.json
+26,A,Improved,Free Movement,k,16,SUCCESS,5.0,80,10,1127,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,136,11,1128,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.075,SUCCESS,23.5,786,47,1129,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.075,SUCCESS,28.0,130,56,1130,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,31.5,856,63,1131,runs/experiment2.json
+26,A,Baseline,Free Movement,k,18,SUCCESS,62.0,158,124,1132,runs/experiment2.json
+26,A,Improved,Free Movement,k,18,SUCCESS,4.5,84,9,1133,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,250,11,1134,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.1,SUCCESS,13.5,590,27,1135,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.1,SUCCESS,12.0,118,24,1136,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,24.5,850,49,1137,runs/experiment2.json
+26,A,Baseline,Free Movement,k,20,SUCCESS,14.5,32,29,1138,runs/experiment2.json
+26,A,Improved,Free Movement,k,20,SUCCESS,4.5,90,9,1139,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,188,11,1140,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.125,SUCCESS,33.0,1096,66,1141,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.125,SUCCESS,10.5,88,21,1142,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,12.0,116,24,1143,runs/experiment2.json
+26,A,Baseline,Free Movement,k,22,SUCCESS,168.5,608,337,1144,runs/experiment2.json
+26,A,Improved,Free Movement,k,22,SUCCESS,5.5,112,11,1145,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,220,12,1146,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.15,SUCCESS,16.5,808,33,1147,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.15,SUCCESS,2.5,48,5,1148,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,15.5,946,31,1149,runs/experiment2.json
+26,A,Baseline,Free Movement,k,24,SUCCESS,177.0,530,354,1150,runs/experiment2.json
+26,A,Improved,Free Movement,k,24,SUCCESS,6.0,124,12,1151,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,286,12,1152,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.2,SUCCESS,27.0,890,54,1153,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.2,SUCCESS,18.0,162,36,1154,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,13.5,290,27,1155,runs/experiment2.json
+26,A,Baseline,Free Movement,k,26,SUCCESS,211.0,656,422,1156,runs/experiment2.json
+26,A,Improved,Free Movement,k,26,SUCCESS,5.5,134,11,1157,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,26,SUCCESS,6.5,370,13,1158,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.25,SUCCESS,11.5,602,23,1159,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.25,SUCCESS,4.5,48,9,1160,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,13.5,556,27,1161,runs/experiment2.json
+26,A,Baseline,Free Movement,k,28,SUCCESS,127.5,374,255,1162,runs/experiment2.json
+26,A,Improved,Free Movement,k,28,SUCCESS,8.5,182,17,1163,runs/experiment2.json
+26,A,Free Optimized,Free Movement,k,28,SUCCESS,7.0,300,14,1164,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.3,SUCCESS,34.0,1986,68,1165,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.3,SUCCESS,12.5,102,25,1166,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,15.0,432,30,1167,runs/experiment2.json
+26,B,Baseline,Free Movement,alpha,0.4,SUCCESS,38.5,3060,77,1168,runs/experiment2.json
+26,B,Improved,Free Movement,alpha,0.4,SUCCESS,30.5,350,61,1169,runs/experiment2.json
+26,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,65.5,5676,131,1170,runs/experiment2.json
+27,A,Baseline,Free Movement,k,16,SUCCESS,92.5,352,185,1171,runs/experiment2.json
+27,A,Improved,Free Movement,k,16,SUCCESS,9.0,134,18,1172,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,230,11,1173,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.075,SUCCESS,39.0,1444,78,1174,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.075,SUCCESS,16.0,116,32,1175,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,17.5,418,35,1176,runs/experiment2.json
+27,A,Baseline,Free Movement,k,18,SUCCESS,113.5,394,227,1177,runs/experiment2.json
+27,A,Improved,Free Movement,k,18,SUCCESS,10.0,198,20,1178,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,222,11,1179,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.1,SUCCESS,33.5,1140,67,1180,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.1,SUCCESS,18.5,146,37,1181,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,19.0,722,38,1182,runs/experiment2.json
+27,A,Baseline,Free Movement,k,20,SUCCESS,18.0,158,36,1183,runs/experiment2.json
+27,A,Improved,Free Movement,k,20,SUCCESS,9.0,194,18,1184,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,268,12,1185,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.125,SUCCESS,16.0,816,32,1186,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.125,SUCCESS,13.0,98,26,1187,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,34.0,1402,68,1188,runs/experiment2.json
+27,A,Baseline,Free Movement,k,22,SUCCESS,26.5,130,53,1189,runs/experiment2.json
+27,A,Improved,Free Movement,k,22,SUCCESS,9.0,210,18,1190,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,232,11,1191,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.15,SUCCESS,21.5,500,43,1192,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.15,SUCCESS,11.0,82,22,1193,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,27.5,686,55,1194,runs/experiment2.json
+27,A,Baseline,Free Movement,k,24,SUCCESS,192.5,750,385,1195,runs/experiment2.json
+27,A,Improved,Free Movement,k,24,SUCCESS,7.5,230,15,1196,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,262,11,1197,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.2,SUCCESS,18.5,1398,37,1198,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.2,SUCCESS,16.5,144,33,1199,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,11.0,248,22,1200,runs/experiment2.json
+27,A,Baseline,Free Movement,k,26,SUCCESS,231.0,850,462,1201,runs/experiment2.json
+27,A,Improved,Free Movement,k,26,SUCCESS,8.0,180,16,1202,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,252,11,1203,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.25,SUCCESS,14.5,278,29,1204,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.25,SUCCESS,25.0,356,50,1205,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,22.5,1106,45,1206,runs/experiment2.json
+27,A,Baseline,Free Movement,k,28,SUCCESS,253.0,914,506,1207,runs/experiment2.json
+27,A,Improved,Free Movement,k,28,SUCCESS,8.0,188,16,1208,runs/experiment2.json
+27,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,290,11,1209,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.3,SUCCESS,40.0,3450,80,1210,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.3,SUCCESS,10.5,104,21,1211,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,10.0,230,20,1212,runs/experiment2.json
+27,B,Baseline,Free Movement,alpha,0.4,SUCCESS,47.0,4168,94,1213,runs/experiment2.json
+27,B,Improved,Free Movement,alpha,0.4,SUCCESS,35.5,432,71,1214,runs/experiment2.json
+27,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,22.5,1854,45,1215,runs/experiment2.json
+28,A,Baseline,Free Movement,k,16,SUCCESS,29.0,66,58,1216,runs/experiment2.json
+28,A,Improved,Free Movement,k,16,SUCCESS,8.5,118,17,1217,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,196,12,1218,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.075,SUCCESS,8.0,108,16,1219,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.075,SUCCESS,19.5,66,39,1220,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,23.0,626,46,1221,runs/experiment2.json
+28,A,Baseline,Free Movement,k,18,SUCCESS,28.5,150,57,1222,runs/experiment2.json
+28,A,Improved,Free Movement,k,18,SUCCESS,8.5,110,17,1223,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,206,12,1224,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.1,SUCCESS,8.0,106,16,1225,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.1,SUCCESS,23.0,152,46,1226,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,17.5,608,35,1227,runs/experiment2.json
+28,A,Baseline,Free Movement,k,20,SUCCESS,29.5,126,59,1228,runs/experiment2.json
+28,A,Improved,Free Movement,k,20,SUCCESS,7.0,142,14,1229,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,210,12,1230,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.125,SUCCESS,20.0,302,40,1231,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.125,SUCCESS,12.0,46,24,1232,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,18.0,684,36,1233,runs/experiment2.json
+28,A,Baseline,Free Movement,k,22,SUCCESS,76.5,194,153,1234,runs/experiment2.json
+28,A,Improved,Free Movement,k,22,SUCCESS,9.0,154,18,1235,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,22,SUCCESS,6.5,278,13,1236,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.15,SUCCESS,17.0,894,34,1237,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.15,SUCCESS,24.5,368,49,1238,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,16.5,584,33,1239,runs/experiment2.json
+28,A,Baseline,Free Movement,k,24,SUCCESS,53.0,188,106,1240,runs/experiment2.json
+28,A,Improved,Free Movement,k,24,SUCCESS,8.0,166,16,1241,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,24,SUCCESS,6.5,380,13,1242,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.2,SUCCESS,26.5,1836,53,1243,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.2,SUCCESS,16.5,114,33,1244,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,22.5,1830,45,1245,runs/experiment2.json
+28,A,Baseline,Free Movement,k,26,SUCCESS,117.5,372,235,1246,runs/experiment2.json
+28,A,Improved,Free Movement,k,26,SUCCESS,7.0,172,14,1247,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,26,SUCCESS,6.5,340,13,1248,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.25,SUCCESS,22.5,1776,45,1249,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.25,SUCCESS,9.5,60,19,1250,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,42.0,3202,84,1251,runs/experiment2.json
+28,A,Baseline,Free Movement,k,28,SUCCESS,25.5,62,51,1252,runs/experiment2.json
+28,A,Improved,Free Movement,k,28,SUCCESS,8.0,172,16,1253,runs/experiment2.json
+28,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,308,12,1254,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.3,SUCCESS,49.5,3750,99,1255,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.3,SUCCESS,8.5,42,17,1256,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,19.5,718,39,1257,runs/experiment2.json
+28,B,Baseline,Free Movement,alpha,0.4,SUCCESS,19.5,404,39,1258,runs/experiment2.json
+28,B,Improved,Free Movement,alpha,0.4,SUCCESS,9.0,48,18,1259,runs/experiment2.json
+28,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,23.0,1690,46,1260,runs/experiment2.json
+29,A,Baseline,Free Movement,k,16,SUCCESS,25.0,88,50,1261,runs/experiment2.json
+29,A,Improved,Free Movement,k,16,SUCCESS,5.5,70,11,1262,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,16,SUCCESS,5.0,176,10,1263,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.075,SUCCESS,18.5,698,37,1264,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.075,SUCCESS,15.5,96,31,1265,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,16.5,616,33,1266,runs/experiment2.json
+29,A,Baseline,Free Movement,k,18,SUCCESS,34.5,102,69,1267,runs/experiment2.json
+29,A,Improved,Free Movement,k,18,SUCCESS,6.5,112,13,1268,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,148,11,1269,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.1,SUCCESS,38.5,1140,77,1270,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.1,SUCCESS,19.0,230,38,1271,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,14.0,384,28,1272,runs/experiment2.json
+29,A,Baseline,Free Movement,k,20,SUCCESS,47.5,116,95,1273,runs/experiment2.json
+29,A,Improved,Free Movement,k,20,SUCCESS,6.0,118,12,1274,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,248,11,1275,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.125,SUCCESS,7.0,64,14,1276,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.125,SUCCESS,17.0,108,34,1277,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,28.0,1342,56,1278,runs/experiment2.json
+29,A,Baseline,Free Movement,k,22,SUCCESS,55.0,180,110,1279,runs/experiment2.json
+29,A,Improved,Free Movement,k,22,SUCCESS,9.5,210,19,1280,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,194,11,1281,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.15,SUCCESS,15.5,1296,31,1282,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.15,SUCCESS,8.0,36,16,1283,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,26.0,1134,52,1284,runs/experiment2.json
+29,A,Baseline,Free Movement,k,24,SUCCESS,47.0,192,94,1285,runs/experiment2.json
+29,A,Improved,Free Movement,k,24,SUCCESS,10.5,200,21,1286,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,198,12,1287,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.2,SUCCESS,20.0,518,40,1288,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.2,SUCCESS,8.5,64,17,1289,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,8.5,336,17,1290,runs/experiment2.json
+29,A,Baseline,Free Movement,k,26,SUCCESS,168.5,434,337,1291,runs/experiment2.json
+29,A,Improved,Free Movement,k,26,SUCCESS,9.5,212,19,1292,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,344,11,1293,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.25,SUCCESS,32.5,2014,65,1294,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.25,SUCCESS,9.0,36,18,1295,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,9.0,214,18,1296,runs/experiment2.json
+29,A,Baseline,Free Movement,k,28,SUCCESS,109.0,320,218,1297,runs/experiment2.json
+29,A,Improved,Free Movement,k,28,SUCCESS,9.0,220,18,1298,runs/experiment2.json
+29,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,288,11,1299,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.3,SUCCESS,50.5,4514,101,1300,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.3,SUCCESS,7.0,50,14,1301,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,4.0,118,8,1302,runs/experiment2.json
+29,B,Baseline,Free Movement,alpha,0.4,SUCCESS,11.5,1192,23,1303,runs/experiment2.json
+29,B,Improved,Free Movement,alpha,0.4,SUCCESS,58.0,728,116,1304,runs/experiment2.json
+29,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,3.0,98,6,1305,runs/experiment2.json
+30,A,Baseline,Free Movement,k,16,SUCCESS,34.5,228,69,1306,runs/experiment2.json
+30,A,Improved,Free Movement,k,16,SUCCESS,9.0,102,18,1307,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,168,12,1308,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.075,SUCCESS,31.5,1046,63,1309,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.075,SUCCESS,21.5,250,43,1310,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,26.5,556,53,1311,runs/experiment2.json
+30,A,Baseline,Free Movement,k,18,SUCCESS,14.0,164,28,1312,runs/experiment2.json
+30,A,Improved,Free Movement,k,18,SUCCESS,5.0,72,10,1313,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,198,12,1314,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.1,SUCCESS,29.5,1300,59,1315,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.1,SUCCESS,18.0,154,36,1316,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,13.0,454,26,1317,runs/experiment2.json
+30,A,Baseline,Free Movement,k,20,SUCCESS,10.5,90,21,1318,runs/experiment2.json
+30,A,Improved,Free Movement,k,20,SUCCESS,5.0,76,10,1319,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,170,11,1320,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.125,SUCCESS,15.0,1056,30,1321,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.125,SUCCESS,28.0,486,56,1322,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,9.5,460,19,1323,runs/experiment2.json
+30,A,Baseline,Free Movement,k,22,SUCCESS,17.5,102,35,1324,runs/experiment2.json
+30,A,Improved,Free Movement,k,22,SUCCESS,6.0,74,12,1325,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,268,11,1326,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.15,SUCCESS,11.5,510,23,1327,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.15,SUCCESS,31.0,494,62,1328,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,26.0,1104,52,1329,runs/experiment2.json
+30,A,Baseline,Free Movement,k,24,SUCCESS,8.0,98,16,1330,runs/experiment2.json
+30,A,Improved,Free Movement,k,24,SUCCESS,6.5,84,13,1331,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,230,12,1332,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.2,SUCCESS,22.0,698,44,1333,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.2,SUCCESS,37.5,708,75,1334,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,22.0,1578,44,1335,runs/experiment2.json
+30,A,Baseline,Free Movement,k,26,SUCCESS,87.5,308,175,1336,runs/experiment2.json
+30,A,Improved,Free Movement,k,26,SUCCESS,8.0,138,16,1337,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,306,11,1338,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.25,SUCCESS,11.0,522,22,1339,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.25,SUCCESS,40.5,560,81,1340,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,13.5,614,27,1341,runs/experiment2.json
+30,A,Baseline,Free Movement,k,28,SUCCESS,65.0,262,130,1342,runs/experiment2.json
+30,A,Improved,Free Movement,k,28,SUCCESS,9.5,166,19,1343,runs/experiment2.json
+30,A,Free Optimized,Free Movement,k,28,SUCCESS,6.5,408,13,1344,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.3,SUCCESS,15.5,1594,31,1345,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.3,SUCCESS,27.0,248,54,1346,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,11.5,150,23,1347,runs/experiment2.json
+30,B,Baseline,Free Movement,alpha,0.4,SUCCESS,15.5,1670,31,1348,runs/experiment2.json
+30,B,Improved,Free Movement,alpha,0.4,SUCCESS,26.5,234,53,1349,runs/experiment2.json
+30,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,27.0,2072,54,1350,runs/experiment2.json
+31,A,Baseline,Free Movement,k,16,SUCCESS,19.5,123,39,1351,runs/experiment2.json
+31,A,Improved,Free Movement,k,16,SUCCESS,7.0,91,14,1352,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,319,11,1353,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.075,SUCCESS,20.0,259,40,1354,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.075,SUCCESS,11.5,135,23,1355,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,14.5,281,29,1356,runs/experiment2.json
+31,A,Baseline,Free Movement,k,18,SUCCESS,37.5,191,75,1357,runs/experiment2.json
+31,A,Improved,Free Movement,k,18,SUCCESS,13.0,121,26,1358,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,237,11,1359,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.1,SUCCESS,17.5,329,35,1360,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.1,SUCCESS,24.0,301,48,1361,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,13.0,161,26,1362,runs/experiment2.json
+31,A,Baseline,Free Movement,k,20,SUCCESS,75.5,301,151,1363,runs/experiment2.json
+31,A,Improved,Free Movement,k,20,SUCCESS,8.5,139,17,1364,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,227,12,1365,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.125,SUCCESS,11.0,185,22,1366,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.125,SUCCESS,31.0,389,62,1367,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,10.5,119,21,1368,runs/experiment2.json
+31,A,Baseline,Free Movement,k,22,SUCCESS,125.0,521,250,1369,runs/experiment2.json
+31,A,Improved,Free Movement,k,22,SUCCESS,8.0,129,16,1370,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,225,10,1371,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.15,SUCCESS,16.5,993,33,1372,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.15,SUCCESS,21.5,265,43,1373,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,26.5,1827,53,1374,runs/experiment2.json
+31,A,Baseline,Free Movement,k,24,SUCCESS,97.5,401,195,1375,runs/experiment2.json
+31,A,Improved,Free Movement,k,24,SUCCESS,7.5,101,15,1376,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,24,SUCCESS,1.5,73,3,1377,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.2,SUCCESS,14.5,1643,29,1378,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.2,SUCCESS,15.0,213,30,1379,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,25.5,1239,51,1380,runs/experiment2.json
+31,A,Baseline,Free Movement,k,26,SUCCESS,75.0,315,150,1381,runs/experiment2.json
+31,A,Improved,Free Movement,k,26,SUCCESS,7.5,105,15,1382,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,241,11,1383,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.25,SUCCESS,19.0,1739,38,1384,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.25,SUCCESS,23.0,261,46,1385,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,27.0,1711,54,1386,runs/experiment2.json
+31,A,Baseline,Free Movement,k,28,SUCCESS,5.5,91,11,1387,runs/experiment2.json
+31,A,Improved,Free Movement,k,28,SUCCESS,6.0,89,12,1388,runs/experiment2.json
+31,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,263,11,1389,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.3,SUCCESS,15.0,1017,30,1390,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.3,SUCCESS,16.0,157,32,1391,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,6.5,97,13,1392,runs/experiment2.json
+31,B,Baseline,Free Movement,alpha,0.4,SUCCESS,14.0,1639,28,1393,runs/experiment2.json
+31,B,Improved,Free Movement,alpha,0.4,SUCCESS,19.5,175,39,1394,runs/experiment2.json
+31,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,15.5,767,31,1395,runs/experiment2.json
+32,A,Baseline,Free Movement,k,16,SUCCESS,18.0,39,36,1396,runs/experiment2.json
+32,A,Improved,Free Movement,k,16,SUCCESS,9.5,125,19,1397,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,127,11,1398,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.075,SUCCESS,12.5,93,25,1399,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.075,SUCCESS,13.5,57,27,1400,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,17.0,489,34,1401,runs/experiment2.json
+32,A,Baseline,Free Movement,k,18,SUCCESS,44.0,125,88,1402,runs/experiment2.json
+32,A,Improved,Free Movement,k,18,SUCCESS,9.5,151,19,1403,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,173,11,1404,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.1,SUCCESS,14.0,695,28,1405,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.1,SUCCESS,9.0,33,18,1406,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,2.5,23,5,1407,runs/experiment2.json
+32,A,Baseline,Free Movement,k,20,SUCCESS,21.5,105,43,1408,runs/experiment2.json
+32,A,Improved,Free Movement,k,20,SUCCESS,9.0,159,18,1409,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,171,11,1410,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.125,SUCCESS,39.5,2613,79,1411,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.125,SUCCESS,26.0,389,52,1412,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,18.0,967,36,1413,runs/experiment2.json
+32,A,Baseline,Free Movement,k,22,SUCCESS,48.5,117,97,1414,runs/experiment2.json
+32,A,Improved,Free Movement,k,22,SUCCESS,8.0,165,16,1415,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,233,11,1416,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.15,SUCCESS,13.5,167,27,1417,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.15,SUCCESS,4.0,45,8,1418,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,17.5,901,35,1419,runs/experiment2.json
+32,A,Baseline,Free Movement,k,24,SUCCESS,19.5,43,39,1420,runs/experiment2.json
+32,A,Improved,Free Movement,k,24,SUCCESS,8.0,169,16,1421,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,229,12,1422,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.2,SUCCESS,13.5,745,27,1423,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.2,SUCCESS,10.0,91,20,1424,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,7.5,515,15,1425,runs/experiment2.json
+32,A,Baseline,Free Movement,k,26,SUCCESS,27.0,103,54,1426,runs/experiment2.json
+32,A,Improved,Free Movement,k,26,SUCCESS,9.5,181,19,1427,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,191,12,1428,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.25,SUCCESS,20.5,1789,41,1429,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.25,SUCCESS,13.5,109,27,1430,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,14.0,1237,28,1431,runs/experiment2.json
+32,A,Baseline,Free Movement,k,28,SUCCESS,27.0,109,54,1432,runs/experiment2.json
+32,A,Improved,Free Movement,k,28,SUCCESS,8.5,189,17,1433,runs/experiment2.json
+32,A,Free Optimized,Free Movement,k,28,SUCCESS,6.0,219,12,1434,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.3,SUCCESS,15.0,1079,30,1435,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.3,SUCCESS,7.5,47,15,1436,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,15.5,807,31,1437,runs/experiment2.json
+32,B,Baseline,Free Movement,alpha,0.4,SUCCESS,16.5,1103,33,1438,runs/experiment2.json
+32,B,Improved,Free Movement,alpha,0.4,SUCCESS,26.5,261,53,1439,runs/experiment2.json
+32,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,53.0,3029,106,1440,runs/experiment2.json
+33,A,Baseline,Free Movement,k,16,SUCCESS,16.0,73,32,1441,runs/experiment2.json
+33,A,Improved,Free Movement,k,16,SUCCESS,5.0,63,10,1442,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,199,11,1443,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.075,SUCCESS,20.5,863,41,1444,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.075,SUCCESS,13.0,177,26,1445,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,18.0,191,36,1446,runs/experiment2.json
+33,A,Baseline,Free Movement,k,18,SUCCESS,103.5,357,207,1447,runs/experiment2.json
+33,A,Improved,Free Movement,k,18,SUCCESS,5.5,79,11,1448,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,18,SUCCESS,5.0,163,10,1449,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.1,SUCCESS,28.5,2663,57,1450,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.1,SUCCESS,19.5,101,39,1451,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,40.5,1253,81,1452,runs/experiment2.json
+33,A,Baseline,Free Movement,k,20,SUCCESS,84.0,231,168,1453,runs/experiment2.json
+33,A,Improved,Free Movement,k,20,SUCCESS,6.5,93,13,1454,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,173,11,1455,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.125,SUCCESS,13.5,1281,27,1456,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.125,SUCCESS,7.0,35,14,1457,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,22.5,1229,45,1458,runs/experiment2.json
+33,A,Baseline,Free Movement,k,22,SUCCESS,32.5,85,65,1459,runs/experiment2.json
+33,A,Improved,Free Movement,k,22,SUCCESS,9.5,129,19,1460,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,217,11,1461,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.15,SUCCESS,12.0,1061,24,1462,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.15,SUCCESS,19.5,157,39,1463,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,31.5,993,63,1464,runs/experiment2.json
+33,A,Baseline,Free Movement,k,24,SUCCESS,29.0,103,58,1465,runs/experiment2.json
+33,A,Improved,Free Movement,k,24,SUCCESS,5.5,91,11,1466,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,273,12,1467,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.2,SUCCESS,17.0,1191,34,1468,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.2,SUCCESS,24.0,237,48,1469,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,15.5,833,31,1470,runs/experiment2.json
+33,A,Baseline,Free Movement,k,26,SUCCESS,40.0,163,80,1471,runs/experiment2.json
+33,A,Improved,Free Movement,k,26,SUCCESS,9.5,193,19,1472,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,26,SUCCESS,6.0,257,12,1473,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.25,SUCCESS,16.0,1055,32,1474,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.25,SUCCESS,21.5,153,43,1475,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,10.5,753,21,1476,runs/experiment2.json
+33,A,Baseline,Free Movement,k,28,SUCCESS,205.0,559,410,1477,runs/experiment2.json
+33,A,Improved,Free Movement,k,28,SUCCESS,9.5,183,19,1478,runs/experiment2.json
+33,A,Free Optimized,Free Movement,k,28,SUCCESS,6.5,397,13,1479,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.3,SUCCESS,26.0,2045,52,1480,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.3,SUCCESS,4.5,27,9,1481,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,30.5,2795,61,1482,runs/experiment2.json
+33,B,Baseline,Free Movement,alpha,0.4,SUCCESS,23.0,2095,46,1483,runs/experiment2.json
+33,B,Improved,Free Movement,alpha,0.4,SUCCESS,68.5,921,137,1484,runs/experiment2.json
+33,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,28.0,2291,56,1485,runs/experiment2.json
+34,A,Baseline,Free Movement,k,16,SUCCESS,40.5,182,81,1486,runs/experiment2.json
+34,A,Improved,Free Movement,k,16,SUCCESS,9.5,98,19,1487,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,248,11,1488,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.075,SUCCESS,8.0,518,16,1489,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.075,SUCCESS,18.5,252,37,1490,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,20.5,330,41,1491,runs/experiment2.json
+34,A,Baseline,Free Movement,k,18,SUCCESS,9.0,100,18,1492,runs/experiment2.json
+34,A,Improved,Free Movement,k,18,SUCCESS,6.5,80,13,1493,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,226,11,1494,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.1,SUCCESS,29.5,774,59,1495,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.1,SUCCESS,25.0,208,50,1496,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,19.0,1256,38,1497,runs/experiment2.json
+34,A,Baseline,Free Movement,k,20,SUCCESS,66.0,234,132,1498,runs/experiment2.json
+34,A,Improved,Free Movement,k,20,SUCCESS,5.0,72,10,1499,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,246,11,1500,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.125,SUCCESS,30.0,2562,60,1501,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.125,SUCCESS,23.5,320,47,1502,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,15.0,258,30,1503,runs/experiment2.json
+34,A,Baseline,Free Movement,k,22,SUCCESS,4.5,68,9,1504,runs/experiment2.json
+34,A,Improved,Free Movement,k,22,SUCCESS,5.0,70,10,1505,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,280,11,1506,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.15,SUCCESS,15.0,782,30,1507,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.15,SUCCESS,24.5,378,49,1508,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,19.5,1068,39,1509,runs/experiment2.json
+34,A,Baseline,Free Movement,k,24,SUCCESS,5.0,74,10,1510,runs/experiment2.json
+34,A,Improved,Free Movement,k,24,SUCCESS,6.5,84,13,1511,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,284,11,1512,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.2,SUCCESS,21.0,1418,42,1513,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.2,SUCCESS,20.0,260,40,1514,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,19.0,1120,38,1515,runs/experiment2.json
+34,A,Baseline,Free Movement,k,26,SUCCESS,34.0,114,68,1516,runs/experiment2.json
+34,A,Improved,Free Movement,k,26,SUCCESS,6.0,90,12,1517,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,204,11,1518,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.25,SUCCESS,35.0,2644,70,1519,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.25,SUCCESS,12.5,138,25,1520,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,61.0,4680,122,1521,runs/experiment2.json
+34,A,Baseline,Free Movement,k,28,SUCCESS,17.0,86,34,1522,runs/experiment2.json
+34,A,Improved,Free Movement,k,28,SUCCESS,6.5,100,13,1523,runs/experiment2.json
+34,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,324,11,1524,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.3,SUCCESS,29.5,2426,59,1525,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.3,SUCCESS,21.0,216,42,1526,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,18.5,718,37,1527,runs/experiment2.json
+34,B,Baseline,Free Movement,alpha,0.4,SUCCESS,13.0,922,26,1528,runs/experiment2.json
+34,B,Improved,Free Movement,alpha,0.4,SUCCESS,26.0,230,52,1529,runs/experiment2.json
+34,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,8.0,128,16,1530,runs/experiment2.json
+35,A,Baseline,Free Movement,k,16,SUCCESS,6.5,104,13,1531,runs/experiment2.json
+35,A,Improved,Free Movement,k,16,SUCCESS,6.0,94,12,1532,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,16,SUCCESS,6.0,236,12,1533,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.075,SUCCESS,12.0,432,24,1534,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.075,SUCCESS,38.0,458,76,1535,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,13.5,378,27,1536,runs/experiment2.json
+35,A,Baseline,Free Movement,k,18,SUCCESS,20.5,168,41,1537,runs/experiment2.json
+35,A,Improved,Free Movement,k,18,SUCCESS,8.0,104,16,1538,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,190,11,1539,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.1,SUCCESS,12.5,466,25,1540,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.1,SUCCESS,20.0,346,40,1541,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,39.0,1900,78,1542,runs/experiment2.json
+35,A,Baseline,Free Movement,k,20,SUCCESS,15.0,166,30,1543,runs/experiment2.json
+35,A,Improved,Free Movement,k,20,SUCCESS,6.5,104,13,1544,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,20,SUCCESS,6.5,362,13,1545,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.125,SUCCESS,17.5,884,35,1546,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.125,SUCCESS,29.0,298,58,1547,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,11.0,302,22,1548,runs/experiment2.json
+35,A,Baseline,Free Movement,k,22,SUCCESS,46.5,204,93,1549,runs/experiment2.json
+35,A,Improved,Free Movement,k,22,SUCCESS,6.5,116,13,1550,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,280,12,1551,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.15,SUCCESS,13.5,1332,27,1552,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.15,SUCCESS,22.5,244,45,1553,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,19.0,444,38,1554,runs/experiment2.json
+35,A,Baseline,Free Movement,k,24,SUCCESS,26.0,146,52,1555,runs/experiment2.json
+35,A,Improved,Free Movement,k,24,SUCCESS,4.0,92,8,1556,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,268,12,1557,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.2,SUCCESS,10.5,596,21,1558,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.2,SUCCESS,21.5,224,43,1559,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,16.0,766,32,1560,runs/experiment2.json
+35,A,Baseline,Free Movement,k,26,SUCCESS,230.0,986,460,1561,runs/experiment2.json
+35,A,Improved,Free Movement,k,26,SUCCESS,6.0,154,12,1562,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,26,SUCCESS,5.0,174,10,1563,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.25,SUCCESS,69.0,5536,138,1564,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.25,SUCCESS,38.0,586,76,1565,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,7.5,314,15,1566,runs/experiment2.json
+35,A,Baseline,Free Movement,k,28,SUCCESS,212.5,652,425,1567,runs/experiment2.json
+35,A,Improved,Free Movement,k,28,SUCCESS,8.0,198,16,1568,runs/experiment2.json
+35,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,196,11,1569,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.3,SUCCESS,19.5,1338,39,1570,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.3,SUCCESS,22.5,312,45,1571,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,25.5,1108,51,1572,runs/experiment2.json
+35,B,Baseline,Free Movement,alpha,0.4,SUCCESS,37.0,3598,74,1573,runs/experiment2.json
+35,B,Improved,Free Movement,alpha,0.4,SUCCESS,14.5,110,29,1574,runs/experiment2.json
+35,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,8.5,422,17,1575,runs/experiment2.json
+36,A,Baseline,Free Movement,k,16,SUCCESS,18.0,186,36,1576,runs/experiment2.json
+36,A,Improved,Free Movement,k,16,SUCCESS,7.0,138,14,1577,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,16,SUCCESS,6.5,312,13,1578,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.075,SUCCESS,7.0,378,14,1579,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.075,SUCCESS,34.5,418,69,1580,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,6.5,360,13,1581,runs/experiment2.json
+36,A,Baseline,Free Movement,k,18,SUCCESS,20.5,232,41,1582,runs/experiment2.json
+36,A,Improved,Free Movement,k,18,SUCCESS,8.0,136,16,1583,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,364,12,1584,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.1,SUCCESS,29.0,952,58,1585,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.1,SUCCESS,31.5,430,63,1586,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,22.0,704,44,1587,runs/experiment2.json
+36,A,Baseline,Free Movement,k,20,SUCCESS,64.0,358,128,1588,runs/experiment2.json
+36,A,Improved,Free Movement,k,20,SUCCESS,7.0,114,14,1589,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,216,12,1590,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.125,SUCCESS,16.0,692,32,1591,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.125,SUCCESS,26.0,328,52,1592,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,28.5,1458,57,1593,runs/experiment2.json
+36,A,Baseline,Free Movement,k,22,SUCCESS,73.5,254,147,1594,runs/experiment2.json
+36,A,Improved,Free Movement,k,22,SUCCESS,6.0,98,12,1595,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,22,SUCCESS,6.5,266,13,1596,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.15,SUCCESS,17.0,1560,34,1597,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.15,SUCCESS,19.5,232,39,1598,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,21.0,642,42,1599,runs/experiment2.json
+36,A,Baseline,Free Movement,k,24,SUCCESS,102.5,360,205,1600,runs/experiment2.json
+36,A,Improved,Free Movement,k,24,SUCCESS,6.5,100,13,1601,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,262,12,1602,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.2,SUCCESS,14.5,886,29,1603,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.2,SUCCESS,32.5,550,65,1604,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,17.5,486,35,1605,runs/experiment2.json
+36,A,Baseline,Free Movement,k,26,SUCCESS,106.5,474,213,1606,runs/experiment2.json
+36,A,Improved,Free Movement,k,26,SUCCESS,7.0,132,14,1607,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,26,SUCCESS,6.5,278,13,1608,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.25,SUCCESS,13.0,506,26,1609,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.25,SUCCESS,24.5,262,49,1610,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,41.5,3192,83,1611,runs/experiment2.json
+36,A,Baseline,Free Movement,k,28,SUCCESS,114.0,516,228,1612,runs/experiment2.json
+36,A,Improved,Free Movement,k,28,SUCCESS,6.5,140,13,1613,runs/experiment2.json
+36,A,Free Optimized,Free Movement,k,28,SUCCESS,7.5,390,15,1614,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.3,SUCCESS,17.5,1450,35,1615,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.3,SUCCESS,19.5,182,39,1616,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,16.5,582,33,1617,runs/experiment2.json
+36,B,Baseline,Free Movement,alpha,0.4,SUCCESS,36.0,3166,72,1618,runs/experiment2.json
+36,B,Improved,Free Movement,alpha,0.4,SUCCESS,93.5,1328,187,1619,runs/experiment2.json
+36,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,23.0,1632,46,1620,runs/experiment2.json
+37,A,Baseline,Free Movement,k,16,SUCCESS,4.0,150,8,1621,runs/experiment2.json
+37,A,Improved,Free Movement,k,16,SUCCESS,6.0,76,12,1622,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,16,SUCCESS,6.5,248,13,1623,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.075,SUCCESS,16.5,386,33,1624,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.075,SUCCESS,15.5,272,31,1625,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,7.0,490,14,1626,runs/experiment2.json
+37,A,Baseline,Free Movement,k,18,SUCCESS,31.0,174,62,1627,runs/experiment2.json
+37,A,Improved,Free Movement,k,18,SUCCESS,8.0,116,16,1628,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,280,12,1629,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.1,SUCCESS,24.5,1536,49,1630,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.1,SUCCESS,32.5,282,65,1631,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,20.0,428,40,1632,runs/experiment2.json
+37,A,Baseline,Free Movement,k,20,SUCCESS,49.0,226,98,1633,runs/experiment2.json
+37,A,Improved,Free Movement,k,20,SUCCESS,7.5,138,15,1634,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,20,SUCCESS,6.0,296,12,1635,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.125,SUCCESS,7.5,438,15,1636,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.125,SUCCESS,24.5,554,49,1637,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,5.0,286,10,1638,runs/experiment2.json
+37,A,Baseline,Free Movement,k,22,SUCCESS,15.0,116,30,1639,runs/experiment2.json
+37,A,Improved,Free Movement,k,22,SUCCESS,8.5,148,17,1640,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,22,SUCCESS,6.0,308,12,1641,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.15,SUCCESS,9.5,496,19,1642,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.15,SUCCESS,20.5,338,41,1643,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,9.0,178,18,1644,runs/experiment2.json
+37,A,Baseline,Free Movement,k,24,SUCCESS,49.5,210,99,1645,runs/experiment2.json
+37,A,Improved,Free Movement,k,24,SUCCESS,6.5,136,13,1646,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,196,12,1647,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.2,SUCCESS,17.0,1026,34,1648,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.2,SUCCESS,22.0,268,44,1649,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,21.5,836,43,1650,runs/experiment2.json
+37,A,Baseline,Free Movement,k,26,SUCCESS,5.5,66,11,1651,runs/experiment2.json
+37,A,Improved,Free Movement,k,26,SUCCESS,7.5,144,15,1652,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,256,11,1653,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.25,SUCCESS,26.5,2272,53,1654,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.25,SUCCESS,20.5,254,41,1655,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,48.0,4208,96,1656,runs/experiment2.json
+37,A,Baseline,Free Movement,k,28,SUCCESS,9.0,74,18,1657,runs/experiment2.json
+37,A,Improved,Free Movement,k,28,SUCCESS,7.0,134,14,1658,runs/experiment2.json
+37,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,360,11,1659,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.3,SUCCESS,46.5,4052,93,1660,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.3,SUCCESS,24.0,248,48,1661,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,31.5,2372,63,1662,runs/experiment2.json
+37,B,Baseline,Free Movement,alpha,0.4,SUCCESS,23.5,2176,47,1663,runs/experiment2.json
+37,B,Improved,Free Movement,alpha,0.4,SUCCESS,30.5,300,61,1664,runs/experiment2.json
+37,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,22.0,1440,44,1665,runs/experiment2.json
+38,A,Baseline,Free Movement,k,16,SUCCESS,17.5,79,35,1666,runs/experiment2.json
+38,A,Improved,Free Movement,k,16,SUCCESS,6.5,87,13,1667,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,225,11,1668,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.075,SUCCESS,21.5,919,43,1669,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.075,SUCCESS,9.0,79,18,1670,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,45.0,1803,90,1671,runs/experiment2.json
+38,A,Baseline,Free Movement,k,18,SUCCESS,16.0,79,32,1672,runs/experiment2.json
+38,A,Improved,Free Movement,k,18,SUCCESS,9.5,95,19,1673,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,18,SUCCESS,6.0,177,12,1674,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.1,SUCCESS,13.0,319,26,1675,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.1,SUCCESS,11.5,65,23,1676,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,17.5,533,35,1677,runs/experiment2.json
+38,A,Baseline,Free Movement,k,20,SUCCESS,9.5,99,19,1678,runs/experiment2.json
+38,A,Improved,Free Movement,k,20,SUCCESS,9.0,175,18,1679,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,193,11,1680,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.125,SUCCESS,10.0,433,20,1681,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.125,SUCCESS,6.5,61,13,1682,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,6.5,155,13,1683,runs/experiment2.json
+38,A,Baseline,Free Movement,k,22,SUCCESS,80.0,255,160,1684,runs/experiment2.json
+38,A,Improved,Free Movement,k,22,SUCCESS,6.0,83,12,1685,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,243,10,1686,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.15,SUCCESS,8.5,445,17,1687,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.15,SUCCESS,23.5,249,47,1688,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,23.0,371,46,1689,runs/experiment2.json
+38,A,Baseline,Free Movement,k,24,SUCCESS,17.0,99,34,1690,runs/experiment2.json
+38,A,Improved,Free Movement,k,24,SUCCESS,4.5,77,9,1691,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,24,SUCCESS,5.5,247,11,1692,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.2,SUCCESS,29.5,2697,59,1693,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.2,SUCCESS,17.5,173,35,1694,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,8.5,289,17,1695,runs/experiment2.json
+38,A,Baseline,Free Movement,k,26,SUCCESS,67.0,225,134,1696,runs/experiment2.json
+38,A,Improved,Free Movement,k,26,SUCCESS,6.0,83,12,1697,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,399,11,1698,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.25,SUCCESS,68.0,6041,136,1699,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.25,SUCCESS,10.0,67,20,1700,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,20.5,1391,41,1701,runs/experiment2.json
+38,A,Baseline,Free Movement,k,28,SUCCESS,21.0,125,42,1702,runs/experiment2.json
+38,A,Improved,Free Movement,k,28,SUCCESS,6.0,93,12,1703,runs/experiment2.json
+38,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,277,10,1704,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.3,SUCCESS,10.0,481,20,1705,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.3,SUCCESS,17.5,137,35,1706,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,20.5,1455,41,1707,runs/experiment2.json
+38,B,Baseline,Free Movement,alpha,0.4,SUCCESS,119.5,11791,239,1708,runs/experiment2.json
+38,B,Improved,Free Movement,alpha,0.4,SUCCESS,13.0,93,26,1709,runs/experiment2.json
+38,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,19.5,1053,39,1710,runs/experiment2.json
+39,A,Baseline,Free Movement,k,16,SUCCESS,13.0,71,26,1711,runs/experiment2.json
+39,A,Improved,Free Movement,k,16,SUCCESS,11.5,157,23,1712,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,16,SUCCESS,5.5,297,11,1713,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.075,SUCCESS,16.0,1671,32,1714,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.075,SUCCESS,14.5,141,29,1715,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,18.0,1261,36,1716,runs/experiment2.json
+39,A,Baseline,Free Movement,k,18,SUCCESS,7.5,75,15,1717,runs/experiment2.json
+39,A,Improved,Free Movement,k,18,SUCCESS,12.0,161,24,1718,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,18,SUCCESS,5.5,241,11,1719,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.1,SUCCESS,20.5,601,41,1720,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.1,SUCCESS,12.5,299,25,1721,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,12.0,645,24,1722,runs/experiment2.json
+39,A,Baseline,Free Movement,k,20,SUCCESS,66.0,347,132,1723,runs/experiment2.json
+39,A,Improved,Free Movement,k,20,SUCCESS,9.5,177,19,1724,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,343,11,1725,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.125,SUCCESS,8.5,485,17,1726,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.125,SUCCESS,18.5,445,37,1727,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,10.5,809,21,1728,runs/experiment2.json
+39,A,Baseline,Free Movement,k,22,SUCCESS,3.5,127,7,1729,runs/experiment2.json
+39,A,Improved,Free Movement,k,22,SUCCESS,9.5,155,19,1730,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,22,SUCCESS,5.5,225,11,1731,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.15,SUCCESS,14.5,393,29,1732,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.15,SUCCESS,27.0,351,54,1733,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,6.5,357,13,1734,runs/experiment2.json
+39,A,Baseline,Free Movement,k,24,SUCCESS,21.5,129,43,1735,runs/experiment2.json
+39,A,Improved,Free Movement,k,24,SUCCESS,7.5,137,15,1736,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,24,SUCCESS,6.0,265,12,1737,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.2,SUCCESS,16.0,983,32,1738,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.2,SUCCESS,22.0,373,44,1739,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,19.0,1475,38,1740,runs/experiment2.json
+39,A,Baseline,Free Movement,k,26,SUCCESS,22.5,157,45,1741,runs/experiment2.json
+39,A,Improved,Free Movement,k,26,SUCCESS,7.5,145,15,1742,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,26,SUCCESS,5.5,279,11,1743,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.25,SUCCESS,12.0,551,24,1744,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.25,SUCCESS,18.0,215,36,1745,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,11.5,381,23,1746,runs/experiment2.json
+39,A,Baseline,Free Movement,k,28,SUCCESS,33.5,257,67,1747,runs/experiment2.json
+39,A,Improved,Free Movement,k,28,SUCCESS,9.5,187,19,1748,runs/experiment2.json
+39,A,Free Optimized,Free Movement,k,28,SUCCESS,5.5,239,11,1749,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.3,SUCCESS,40.5,3663,81,1750,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.3,SUCCESS,32.5,433,65,1751,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,16.0,689,32,1752,runs/experiment2.json
+39,B,Baseline,Free Movement,alpha,0.4,SUCCESS,18.0,1453,36,1753,runs/experiment2.json
+39,B,Improved,Free Movement,alpha,0.4,SUCCESS,48.0,587,96,1754,runs/experiment2.json
+39,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,18.5,1569,37,1755,runs/experiment2.json
+40,A,Baseline,Free Movement,k,16,SUCCESS,11.0,70,22,1756,runs/experiment2.json
+40,A,Improved,Free Movement,k,16,SUCCESS,9.0,118,18,1757,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,16,SUCCESS,4.5,122,9,1758,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.075,SUCCESS,19.5,1284,39,1759,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.075,SUCCESS,24.5,124,49,1760,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.075,SUCCESS,36.5,708,73,1761,runs/experiment2.json
+40,A,Baseline,Free Movement,k,18,SUCCESS,72.5,176,145,1762,runs/experiment2.json
+40,A,Improved,Free Movement,k,18,SUCCESS,8.5,144,17,1763,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,18,SUCCESS,5.0,144,10,1764,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.1,SUCCESS,31.5,1516,63,1765,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.1,SUCCESS,28.5,306,57,1766,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.1,SUCCESS,16.0,764,32,1767,runs/experiment2.json
+40,A,Baseline,Free Movement,k,20,SUCCESS,34.5,140,69,1768,runs/experiment2.json
+40,A,Improved,Free Movement,k,20,SUCCESS,7.5,138,15,1769,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,20,SUCCESS,5.5,180,11,1770,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.125,SUCCESS,20.0,266,40,1771,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.125,SUCCESS,12.0,76,24,1772,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.125,SUCCESS,14.0,470,28,1773,runs/experiment2.json
+40,A,Baseline,Free Movement,k,22,SUCCESS,42.0,162,84,1774,runs/experiment2.json
+40,A,Improved,Free Movement,k,22,SUCCESS,4.0,110,8,1775,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,22,SUCCESS,5.0,196,10,1776,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.15,SUCCESS,17.0,1072,34,1777,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.15,SUCCESS,12.5,72,25,1778,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.15,SUCCESS,23.5,852,47,1779,runs/experiment2.json
+40,A,Baseline,Free Movement,k,24,SUCCESS,20.5,94,41,1780,runs/experiment2.json
+40,A,Improved,Free Movement,k,24,SUCCESS,4.0,114,8,1781,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,24,SUCCESS,5.0,206,10,1782,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.2,SUCCESS,16.5,884,33,1783,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.2,SUCCESS,40.0,626,80,1784,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.2,SUCCESS,27.5,1178,55,1785,runs/experiment2.json
+40,A,Baseline,Free Movement,k,26,SUCCESS,72.0,212,144,1786,runs/experiment2.json
+40,A,Improved,Free Movement,k,26,SUCCESS,5.5,130,11,1787,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,26,SUCCESS,5.0,266,10,1788,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.25,SUCCESS,12.0,1230,24,1789,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.25,SUCCESS,12.0,76,24,1790,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.25,SUCCESS,13.0,524,26,1791,runs/experiment2.json
+40,A,Baseline,Free Movement,k,28,SUCCESS,26.5,122,53,1792,runs/experiment2.json
+40,A,Improved,Free Movement,k,28,SUCCESS,5.0,142,10,1793,runs/experiment2.json
+40,A,Free Optimized,Free Movement,k,28,SUCCESS,5.0,286,10,1794,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.3,SUCCESS,25.5,2194,51,1795,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.3,SUCCESS,7.0,48,14,1796,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.3,SUCCESS,13.5,478,27,1797,runs/experiment2.json
+40,B,Baseline,Free Movement,alpha,0.4,SUCCESS,35.5,2172,71,1798,runs/experiment2.json
+40,B,Improved,Free Movement,alpha,0.4,SUCCESS,8.0,50,16,1799,runs/experiment2.json
+40,B,Free Optimized,Free Movement,alpha,0.4,SUCCESS,15.0,708,30,1800,runs/experiment2.json

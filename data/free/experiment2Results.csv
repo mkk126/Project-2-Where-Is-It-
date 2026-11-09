@@ -1,0 +1,46 @@
+detectorType,bot,movementMode,dimension,settingName,setting,trials,successes,successRate,averageCost,averageMoves,averageDetections
+A,Baseline,Free Movement,50,k,16,40,40,1.0,27.1375,149.275,54.275
+A,Improved,Free Movement,50,k,16,40,40,1.0,8.225,109.025,16.45
+A,Free Optimized,Free Movement,50,k,16,40,40,1.0,5.625,219.275,11.25
+B,Baseline,Free Movement,50,alpha,0.075,40,40,1.0,21.15,813.375,42.3
+B,Improved,Free Movement,50,alpha,0.075,40,40,1.0,22.15,248.325,44.3
+B,Free Optimized,Free Movement,50,alpha,0.075,40,40,1.0,20.075,590.775,40.15
+A,Baseline,Free Movement,50,k,18,40,40,1.0,30.225,152.475,60.45
+A,Improved,Free Movement,50,k,18,40,40,1.0,7.9375,116.875,15.875
+A,Free Optimized,Free Movement,50,k,18,40,40,1.0,5.65,214.825,11.3
+B,Baseline,Free Movement,50,alpha,0.1,40,40,1.0,19.725,823.075,39.45
+B,Improved,Free Movement,50,alpha,0.1,40,40,1.0,19.875,242.225,39.75
+B,Free Optimized,Free Movement,50,alpha,0.1,40,40,1.0,20.3125,774.675,40.625
+A,Baseline,Free Movement,50,k,20,40,40,1.0,47.9625,203.625,95.925
+A,Improved,Free Movement,50,k,20,40,40,1.0,7.55,125.575,15.1
+A,Free Optimized,Free Movement,50,k,20,40,40,1.0,5.7,231.275,11.4
+B,Baseline,Free Movement,50,alpha,0.125,40,40,1.0,17.925,854.875,35.85
+B,Improved,Free Movement,50,alpha,0.125,40,40,1.0,19.9125,280.625,39.825
+B,Free Optimized,Free Movement,50,alpha,0.125,40,40,1.0,15.85,646.475,31.7
+A,Baseline,Free Movement,50,k,22,40,40,1.0,54.6375,217.275,109.275
+A,Improved,Free Movement,50,k,22,40,40,1.0,7.7625,132.875,15.525
+A,Free Optimized,Free Movement,50,k,22,40,40,1.0,5.525,234.175,11.05
+B,Baseline,Free Movement,50,alpha,0.15,40,40,1.0,16.5125,904.275,33.025
+B,Improved,Free Movement,50,alpha,0.15,40,40,1.0,21.4125,315.125,42.825
+B,Free Optimized,Free Movement,50,alpha,0.15,40,40,1.0,18.2875,742.975,36.575
+A,Baseline,Free Movement,50,k,24,40,40,1.0,61.925,240.775,123.85
+A,Improved,Free Movement,50,k,24,40,40,1.0,7.3375,137.675,14.675
+A,Free Optimized,Free Movement,50,k,24,40,40,1.0,5.575,248.025,11.15
+B,Baseline,Free Movement,50,alpha,0.2,40,40,1.0,16.8375,1065.825,33.675
+B,Improved,Free Movement,50,alpha,0.2,40,40,1.0,22.4875,327.425,44.975
+B,Free Optimized,Free Movement,50,alpha,0.2,40,40,1.0,17.4875,909.475,34.975
+A,Baseline,Free Movement,50,k,26,40,40,1.0,62.8625,244.475,125.725
+A,Improved,Free Movement,50,k,26,40,40,1.0,7.625,150.525,15.25
+A,Free Optimized,Free Movement,50,k,26,40,40,1.0,5.575,268.425,11.15
+B,Baseline,Free Movement,50,alpha,0.25,40,40,1.0,19.775,1463.175,39.55
+B,Improved,Free Movement,50,alpha,0.25,40,40,1.0,22.325,282.875,44.65
+B,Free Optimized,Free Movement,50,alpha,0.25,40,40,1.0,19.4125,1201.025,38.825
+A,Baseline,Free Movement,50,k,28,40,40,1.0,78.85,290.225,157.7
+A,Improved,Free Movement,50,k,28,40,40,1.0,7.575,161.775,15.15
+A,Free Optimized,Free Movement,50,k,28,40,40,1.0,6.025,293.825,12.05
+B,Baseline,Free Movement,50,alpha,0.3,40,40,1.0,24.1375,1941.175,48.275
+B,Improved,Free Movement,50,alpha,0.3,40,40,1.0,22.1,268.175,44.2
+B,Free Optimized,Free Movement,50,alpha,0.3,40,40,1.0,19.8875,1193.625,39.775
+B,Baseline,Free Movement,50,alpha,0.4,40,40,1.0,30.9,2688.825,61.8
+B,Improved,Free Movement,50,alpha,0.4,40,40,1.0,36.8875,443.225,73.775
+B,Free Optimized,Free Movement,50,alpha,0.4,40,40,1.0,23.575,1608.475,47.15

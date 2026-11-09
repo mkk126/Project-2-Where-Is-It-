@@ -1,0 +1,28 @@
+detectorType,bot,movementMode,dimension,settingName,setting,trials,successes,successRate,averageCost,averageMoves,averageDetections
+A,Baseline,Free Movement,50,k,20,100,100,1.0,43.805,194.63,87.61
+A,Improved,Free Movement,50,k,20,100,100,1.0,8.275,127.77,16.55
+A,Free Optimized,Free Movement,50,k,20,100,100,1.0,5.62,230.61,11.24
+B,Baseline,Free Movement,50,alpha,0.1,100,100,1.0,16.285,765.13,32.57
+B,Improved,Free Movement,50,alpha,0.1,100,100,1.0,19.175,256.55,38.35
+B,Free Optimized,Free Movement,50,alpha,0.1,100,100,1.0,17.005,556.55,34.01
+A,Baseline,Free Movement,50,k,22,100,100,1.0,48.815,195.61,97.63
+A,Improved,Free Movement,50,k,22,100,100,1.0,7.87,137.25,15.74
+A,Free Optimized,Free Movement,50,k,22,100,100,1.0,5.54,236.59,11.08
+B,Baseline,Free Movement,50,alpha,0.125,100,100,1.0,18.63,950.75,37.26
+B,Improved,Free Movement,50,alpha,0.125,100,100,1.0,21.155,318.55,42.31
+B,Free Optimized,Free Movement,50,alpha,0.125,100,100,1.0,15.74,576.61,31.48
+A,Baseline,Free Movement,50,k,24,100,100,1.0,61.195,232.77,122.39
+A,Improved,Free Movement,50,k,24,100,100,1.0,8.085,150.83,16.17
+A,Free Optimized,Free Movement,50,k,24,100,100,1.0,5.595,247.87,11.19
+B,Baseline,Free Movement,50,alpha,0.15,100,100,1.0,18.195,993.07,36.39
+B,Improved,Free Movement,50,alpha,0.15,100,100,1.0,19.525,266.83,39.05
+B,Free Optimized,Free Movement,50,alpha,0.15,100,100,1.0,15.355,632.69,30.71
+A,Baseline,Free Movement,50,k,26,100,100,1.0,78.5,278.03,157.0
+A,Improved,Free Movement,50,k,26,100,100,1.0,8.005,162.31,16.01
+A,Free Optimized,Free Movement,50,k,26,100,100,1.0,5.565,266.13,11.13
+B,Baseline,Free Movement,50,alpha,0.175,100,100,1.0,17.185,1014.65,34.37
+B,Improved,Free Movement,50,alpha,0.175,100,100,1.0,18.775,267.09,37.55
+B,Free Optimized,Free Movement,50,alpha,0.175,100,100,1.0,14.985,706.29,29.97
+B,Baseline,Free Movement,50,alpha,0.2,100,100,1.0,20.855,1471.91,41.71
+B,Improved,Free Movement,50,alpha,0.2,100,100,1.0,21.93,325.51,43.86
+B,Free Optimized,Free Movement,50,alpha,0.2,100,100,1.0,16.59,874.53,33.18
